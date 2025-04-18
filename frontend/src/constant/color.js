@@ -1,0 +1,11 @@
+export const factColors = {"trend": "#8dd3c7",
+                            "extreme": "#f0e68c",
+                            "value":"#bebada",
+                            "categorization":"#fb8072",
+                            "difference":"#80b1d3",
+                            "proportion":"#fdb462",
+                            "distribution":"#b3de69",
+                            "rank":"#fccde5",
+                            "association":"#d9d9d9",
+                            "outlier":" #bc80bd",
+                            "null": "white"}

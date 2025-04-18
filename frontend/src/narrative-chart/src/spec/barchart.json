@@ -1,0 +1,137 @@
+{
+  "data": {
+    "url": "http://localhost:3000/spreadsheets/sales.csv",
+    "schema": [
+      {
+        "field": "Year",
+        "type": "temporal"
+      },
+      {
+        "field": "Brand",
+        "type": "categorical"
+      },
+      {
+        "field": "Category",
+        "type": "categorical"
+      },
+      {
+        "field": "Sales",
+        "type": "numerical"
+      }
+    ]
+  },
+
+  "actions": [
+    {
+      "add": "config",
+      "mode": "light",
+      "emotion": "exciting"
+    },
+    {
+      "select": [
+        {
+          "field": "Sales",
+          "aggregate": "min"
+        },
+        {
+          "field": "Brand"
+        }
+      ],
+      "groupby": [
+        {
+          "field": "Brand"
+        }
+      ],
+      "filter": []
+    },
+    {
+      "add": "chart",
+      "mark": {
+        "type": "bar",
+        "style": {
+          "corner-radius": 8,
+          "bin-spacing": 0.5,
+          "stroke": "#FFBE32",
+          "stroke-width": 3,
+          "stroke-opacity": 1,
+          "fill-opacity": 1
+        }
+      }
+    },
+    {
+      "add": "group",
+      "actions": [
+        {
+          "add": "encoding",
+          "channel": "x",
+          "field": "Brand"
+        },
+        {
+          "add": "encoding",
+          "channel": "y",
+          "field": "Sales"
+        }
+      ]
+    },
+    {
+      "add": "annotation",
+      "method": "label",
+      "target": [
+        {
+          "field": "Brand",
+          "value": "Ford"
+        }
+      ],
+      "style": {
+        "font-size": 20,
+        "font-family": "sans-serif",
+        "font-color": "red",
+        "font-weight": 300,
+        "font-style": "italic"
+      }
+    },
+    {
+      "add": "annotation",
+      "method": "symbol",
+      "target": [
+        {
+          "field": "Brand",
+          "value": "Ford"
+        }
+      ],
+      "style": {
+        "icon-url": "http://localhost:3000/icon/rank-1.png",
+        "width": 20
+      }
+    },
+    {
+      "add": "annotation",
+      "method": "circle",
+      "target": [
+        {
+          "field": "Brand",
+          "value": "Hyundai"
+        }
+      ],
+      "style": {
+        "width": 30,
+        "height": 20,
+        "color": "red"
+      }
+    },
+    {
+      "add": "annotation",
+      "method": "texture",
+      "target": [
+        {
+          "field": "Brand",
+          "value": "Hyundai"
+        }
+        
+      ],
+      "style": {
+        "background-image": "http://localhost:3000/texture/circle.png"
+      }
+    }
+  ]
+}

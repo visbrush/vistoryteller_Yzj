@@ -1,0 +1,11 @@
+.inter4headerimg{
+    width: 62.5%; /* 设置容器的宽度 */
+    height: auto;
+    /* height: 20vw; */
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: url('../../../pics/inter4header.svg'); /* 设置图片的URL */
+    background-size: cover; /* 图片以 cover 方式填充容器 */
+    background-position: center; /* 图片在容器中的位置，这里是居中 */
+
+}

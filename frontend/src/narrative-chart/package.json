@@ -1,0 +1,63 @@
+{
+  "name": "narchart",
+  "version": "1.0.3",
+  "description": "Narrative Chart",
+  "main": "lib/index.js",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/react": "^17.0.32",
+    "ace-builds": "^1.6.0",
+    "customize-cra": "^1.0.0",
+    "d3": "^5.16.0",
+    "react": "^16.13.1",
+    "react-ace": "^10.1.0",
+    "react-app-rewired": "^2.1.8",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "save-svg-as-png": "^1.4.17",
+    "uuidv4": "^6.2.4"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "babel ./src/vis -d lib --copy-files",
+    "buildtest": "react-scripts build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-syntax-async-generators": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "babel-loader": "8.1.0"
+  },
+  "author": "Danqing Shi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narchart/narrative-chart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/narchart/narrative-chart/issues"
+  }
+}

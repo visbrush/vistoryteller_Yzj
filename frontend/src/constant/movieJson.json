@@ -1,0 +1,832 @@
+[{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 111,
+            "height": 139
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "unit"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "filter": []
+        }
+    ]
+},
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 111,
+            "height": 139
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "arc"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "movieId",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "genres"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "encoding",
+            "channel": "theta",
+            "field": "movieId"
+        }
+    ]
+}, 
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 111,
+            "height": 139
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "arc"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "value",
+                    "aggregate": "avg"
+                },
+                {
+                    "field": "genres"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "encoding",
+            "channel": "theta",
+            "field": "value"
+        }
+    ]
+}, 
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 111,
+            "height": 139
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "bar"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "value",
+                    "aggregate": "avg"
+                },
+                {
+                    "field": "genres"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "group",
+            "actions": [
+                {
+                    "add": "encoding",
+                    "channel": "x",
+                    "field": "genres"
+                },
+                {
+                    "add": "encoding",
+                    "channel": "y",
+                    "field": "value"
+                }
+            ]
+        }
+    ]
+}, 
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 111,
+            "height": 139
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "bar"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "value",
+                    "aggregate": "avg"
+                },
+                {
+                    "field": "genres"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "filter": [
+                {
+                    "field": "timestamp",
+                    "value": "2010-01-01",
+                    "op": "greater"
+                },
+                {
+                    "field": "timestamp",
+                    "value": "2022-01-01",
+                    "op": "less"
+                }
+            ]
+        },
+        {
+            "add": "group",
+            "actions": [
+                {
+                    "add": "encoding",
+                    "channel": "x",
+                    "field": "genres"
+                },
+                {
+                    "add": "encoding",
+                    "channel": "y",
+                    "field": "value"
+                }
+            ]
+        }
+    ]
+}, 
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 111,
+            "height": 139
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "arc"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "value",
+                    "aggregate": "avg"
+                },
+                {
+                    "field": "genres"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "encoding",
+            "channel": "theta",
+            "field": "value"
+        }
+    ]
+}, 
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 116,
+            "height": 142
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "arc"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "timestamp",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "genres"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "encoding",
+            "channel": "theta",
+            "field": "timestamp"
+        }
+    ]
+}, 
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 116,
+            "height": 142
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "arc"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "timestamp",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "genres"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "genres"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "encoding",
+            "channel": "theta",
+            "field": "timestamp"
+        },
+        {
+            "add": "annotation",
+            "method": "fill",
+            "target": [
+                {
+                    "field": "genres",
+                    "value": "Action"
+                }
+            ]
+        },
+        {
+            "add": "annotation",
+            "method": "label",
+            "target": [
+                {
+                    "field": "genres",
+                    "value": "Action"
+                }
+            ]
+        }
+    ]
+}, 
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 116,
+            "height": 142
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "bar"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "value"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "value"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "group",
+            "actions": [
+                {
+                    "add": "encoding",
+                    "channel": "x",
+                    "field": "value"
+                },
+                {
+                    "add": "encoding",
+                    "channel": "y",
+                    "field": "dataid"
+                }
+            ]
+        },
+        {
+            "add": "annotation",
+            "method": "fill",
+            "target": [
+                {
+                    "field": "value",
+                    "value": "Action"
+                }
+            ]
+        }
+    ]
+}, 
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/mr5100.csv",
+        "schema": [
+            {
+                "field": "movieId",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "temporal"
+            },
+            {
+                "field": "genres",
+                "type": "temporal"
+            },
+            {
+                "field": "userId",
+                "type": "numerical"
+            },
+            {
+                "field": "value",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp",
+                "type": "numerical"
+            },
+            {
+                "field": "name",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 116,
+            "height": 142
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "bar"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "value"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "value"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "group",
+            "actions": [
+                {
+                    "add": "encoding",
+                    "channel": "x",
+                    "field": "value"
+                },
+                {
+                    "add": "encoding",
+                    "channel": "y",
+                    "field": "dataid"
+                }
+            ]
+        },
+        {
+            "add": "annotation",
+            "method": "fill",
+            "target": [
+                {
+                    "field": "value",
+                    "value": "Action"
+                }
+            ]
+        }
+    ]
+}]

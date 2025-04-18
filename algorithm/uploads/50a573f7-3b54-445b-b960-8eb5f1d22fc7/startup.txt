@@ -1,0 +1,9 @@
+<dead_startup, has_property, broken_year>
+<dead_startup, has_property, funded_status>
+<dead_startup, has_property, survival_time>
+<dead_startup, has_property, cause_of_failure>
+<dead_startup, has_property, province>
+<province, has_property, location>
+<industry, has_property, industry>
+<dead_startup, belong to, industry>
+<dead_startup, is at, province>

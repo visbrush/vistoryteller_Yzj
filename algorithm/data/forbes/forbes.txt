@@ -1,0 +1,8 @@
+<company, has_property, Rank>
+<company, has_property, Name>
+<company, has_property, Sales $>
+<company, has_property, Profit $>
+<company, has_property, Assets $>
+<company, has_property, Market Value $>
+<company, is_at, location>
+<location, has_property, Country>

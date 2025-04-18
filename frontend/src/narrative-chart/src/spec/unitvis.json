@@ -1,0 +1,114 @@
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/cars.csv",
+        "schema": [
+            {
+                "field": "Name",
+                "type": "categorical"
+            },
+            {
+                "field": "Miles per Gallon",
+                "type": "numerical"
+            },
+            {
+                "field": "Cylinders",
+                "type": "categorical"
+            },
+            {
+                "field": "Displacement",
+                "type": "numerical"
+            },
+            {
+                "field": "Horsepower",
+                "type": "numerical"
+            },
+            {
+                "field": "Weight",
+                "type": "numerical"
+            },
+            {
+                "field": "Acceleration",
+                "type": "numerical"
+            },
+            {
+                "field": "Year",
+                "type": "categorical"
+            },
+            {
+                "field": "Origin",
+                "type": "categorical"
+            },
+            {
+                "field": "dataid",
+                "type": "categorical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light" 
+        },
+        {
+            "select": [
+                {
+                    "field": "Name"
+                },
+                {
+                    "field": "Miles per Gallon",
+                    "aggregate": "sum"
+                },
+                {
+                    "field": "Cylinders"
+                },
+                {
+                    "field": "Displacement",
+                    "aggregate": "sum"
+                },
+                {
+                    "field": "Horsepower",
+                    "aggregate": "sum"
+                },
+                {
+                    "field": "Weight",
+                    "aggregate": "sum"
+                },
+                {
+                    "field": "Acceleration",
+                    "aggregate": "sum"
+                },
+                {
+                    "field": "Year"
+                },
+                {
+                    "field": "Origin"
+                },
+                {
+                    "field": "dataid"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "dataid"
+                }
+            ],
+            "filter": [
+                
+            ]
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "unit",
+                "style": {
+                    "stroke-color": "blue",
+                    "stroke-opacity": 1,
+                    "stroke-width": 0,
+                    "fill-opacity": 1    
+                }
+            }
+        }
+        
+        
+    ]
+}

@@ -1,0 +1,124 @@
+.single-narcomponent{
+    width:400px;
+    height:368px;
+    min-width: 200px;
+    min-height: 200px;
+    .indexbox{
+        width:fit-content;
+        height:20px;
+        height:20px;
+        background: rgb(62, 122, 255);
+        text-align: center;
+        border-radius: 8px 8px 0px 0px;
+        border-radius: 8px 8px 0px 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: center;
+        align-items: center;
+        color: rgb(255, 255, 255);
+        font-size: 16px;
+        font-family: 'Montserrat';
+        
+        font-size: 16px;
+        font-family: 'Montserrat';
+        
+        .index{
+            align-items: center;
+            align-items: center;
+            font-family: Montserrat;
+            font-weight: 700;
+            line-height: normal;
+            line-height: normal;
+        }
+    }
+    .bluebackground{
+        width: 100%;
+        height: 90%;
+        height: 90%;
+        .bluegrnd{
+            width: 100%;
+            height: 100%;
+            border-radius: 0px 16px 20px 20px;
+            border-radius: 0px 16px 20px 20px;
+            background: rgb(62, 122, 255);    
+        }
+        .narbox{
+            top: calc(-100% + 4px);
+            top: calc(-100% + 4px);
+            position: relative;
+            width: 100%;
+            height: calc(100% - 4px);
+            background: linear-gradient(rgba(255, 255, 255, 0.81) 0%, rgb(255, 255, 255) 16%);
+            box-shadow: rgba(219, 219, 219, 0.25) 0px 6px 16px 0px; 
+            border-radius: 0px 16px 16px 16px;
+            padding-left: 6%;
+            padding-right: 6%;
+        }
+    }
+
+}
+
+.narflexbox{
+
+    /* height: 94%; */
+    height:100%;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3%;
+    padding-bottom:3%;
+    .facttypebox{
+        display:flex;
+        justify-content: center;
+        width: fit-content;
+        height: 20px;
+        margin-bottom: 3px;
+        background: rgba(33, 73, 255, 0.08);
+        border-radius: 8px; 
+        font-size: 14px;
+    .factypeflexbox{
+        height:100%;
+        padding:4px 2px;
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        
+        > div{
+            width: 5px;
+            height: 13px;
+            border-radius: 8px;
+            background: rgb(62, 122, 255);
+            margin-left: 8px;
+            margin-right: 6px;
+            
+        }
+        > span{
+            line-height: normal;
+            font-weight: 700;
+            color: rgb(0, 0, 0);
+            display: inline-block;
+        }
+    }    
+}
+.introbox{
+    height:auto;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 4px;
+    font-size: 12px;
+    line-height: 15px;
+    > span{
+        color: rgb(126, 126, 126);
+    }
+}
+.narchart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:100%;
+    height:100%;
+}
+}

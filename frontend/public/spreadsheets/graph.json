@@ -1,0 +1,18 @@
+{ "nodes": [
+    {"id": "Napoleon", "group": 1},
+    {"id": "MlleBaptistine", "group": 1},
+    {"id": "MmeMagloire", "group": 1},
+    {"id": "Count", "group": 2},
+    {"id": "OldMan", "group": 1},
+    {"id": "Labarre", "group": 2}
+    ],
+"links":[
+{"source": "Napoleon", "target": "Count"},
+{"source": "MlleBaptistine", "target": "MlleBaptistine"},
+{"source": "MmeMagloire", "target": "OldMan"},
+{"source": "MmeMagloire", "target": "MlleBaptistine"},
+{"source": "Count", "target": "Labarre"},
+{"source": "Labarre", "target": "OldMan"},
+{"source": "Count", "target": "OldMan" }
+   ]
+}

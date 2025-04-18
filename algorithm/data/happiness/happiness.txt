@@ -1,0 +1,11 @@
+<happiness, has_property, country>
+<happiness, has_property, region>
+<happiness, has_property, happiness_rank>
+<happiness, has_property, happiness_score>
+<happiness, has_property, economy>
+<happiness, has_property, family>
+<happiness, has_property, health>
+<happiness, has_property, freedom>
+<happiness, has_property, trust>
+<happiness, has_property, generosity>
+<happiness, has_property, dystopia_residual>

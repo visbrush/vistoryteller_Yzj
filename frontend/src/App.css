@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Alfa Slab One';
+    src: url('./assets/font/Alfa-slab-one/AlfaSlabOne-Regular-2.ttf') format('woff');
+    /* Add additional formats if needed */
+}
+
+.pages-header {
+    >span {
+        position: absolute;
+        left: 90px;
+        color: #1F4D89;
+        font-family: Alfa Slab One;
+        font-size: 20px;
+    }
+
+}

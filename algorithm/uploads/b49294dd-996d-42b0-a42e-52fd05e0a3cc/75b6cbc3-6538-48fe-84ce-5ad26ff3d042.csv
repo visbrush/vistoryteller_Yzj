@@ -1,0 +1,1235 @@
+broken_year,industry,location,funded_status,survival_time,cause_of_failure,dataid
+2019,Finance,Shanghai,Series B,1730,supervision,1
+2019,Education,Shanghai,No Funding,8622,ran out of cash,2
+2019,Finance,Shanghai,Series A,1726,supervision,3
+2019,Marketing,Shanghai,No Funding,1888,pivot gone bad,4
+2019,Entertainment,Shanghai,No Funding,3768,ran out of cash,5
+2019,Finance,Shanghai,No Funding,2644,supervision,6
+2019,Finance,Shanghai,Series A,2034,supervision,7
+2019,Finance,Shanghai,Strategic,1577,supervision,8
+2019,Game,Shanghai,No Funding,589,no business model,9
+2019,Health,Shanghai,Series B+,2133,no business model,10
+2019,Local Business,Shanghai,Series A,1522,no market need,11
+2019,Finance,Shanghai,No Funding,1247,no business model,12
+2019,Finance,Shanghai,No Funding,1247,no business model,13
+2019,E-Commerce,Shanghai,No Funding,1065,no business model,14
+2019,Transportation,Shanghai,Angel Round,1553,get outcompeted,15
+2019,Local Business,Shanghai,Angel Round,1581,no market need,16
+2019,Transportation,Shanghai,Angel Round,1247,get outcompeted,17
+2019,Real Estate,Shanghai,Series A,1461,burn out,18
+2019,Game,Shanghai,Angel Round,608,no business model,19
+2019,Finance,Shanghai,Angel Round,1612,supervision,20
+2019,Social Media,Shanghai,No Funding,1247,no market need,21
+2019,Finance,Shanghai,No Funding,1492,no business model,22
+2019,E-Commerce,Shanghai,Angel Round,1612,no investor interest,23
+2019,Transportation,Shanghai,Angel Round,1553,no business model,24
+2019,E-Commerce,Shanghai,Acquired,3499,pivot gone bad,25
+2019,E-Commerce,Shanghai,Series A,883,no business model,26
+2019,Entertainment,Shanghai,Series B,1368,burn out,27
+2019,Education,Shanghai,Pre-A Round,2052,no market need,28
+2019,Entertainment,Shanghai,Angel Round,1943,no business model,29
+2019,Education,Shanghai,Series B+,2336,product mistimed,30
+2019,Real Estate,Shanghai,Series E,1705,burn out,31
+2019,Agriculture,Shanghai,No Funding,1394,pivot gone bad,32
+2019,Finance,Shanghai,Series B,1645,legal challenges,33
+2018,Entertainment,Shanghai,Pre-A Round,1825,ran out of cash,34
+2018,Transportation,Shanghai,Angel Round,1582,burn out,35
+2018,Travel,Shanghai,Series A,1552,product mistimed,36
+2018,Logistics,Shanghai,Series A,1613,no investor interest,37
+2018,Finance,Shanghai,No Funding,1644,supervision,38
+2018,Logistics,Shanghai,No Funding,1613,no business model,39
+2018,Social Media,Shanghai,No Funding,1491,no market need,40
+2018,Local Business,Shanghai,Angel Round,1674,no market need,41
+2018,Local Business,Shanghai,Angel Round,1521,product mistimed,42
+2018,Game,Shanghai,Angel Round,1674,ran out of cash,43
+2018,Education,Shanghai,Series C,1491,ran out of cash,44
+2018,Social Media,Shanghai,Angel Round,1794,no business model,45
+2018,E-Commerce,Shanghai,No Funding,1521,no business model,46
+2018,Enterprise Service,Shanghai,Series A,1582,get outcompeted,47
+2018,Game,Shanghai,Angel Round,1491,ran out of cash,48
+2018,Tool,Shanghai,Angel Round,1674,no market need,49
+2018,Finance,Shanghai,Angel Round,1825,ran out of cash,50
+2018,Sports,Shanghai,Angel Round,1644,poor marketing,51
+2018,Real Estate,Shanghai,Angel Round,1491,product mistimed,52
+2018,Hardware,Shanghai,Angel Round,1582,no investor interest,53
+2018,Social Media,Shanghai,Series B,1644,no market need,54
+2018,Tool,Shanghai,Angel Round,1521,legal challenges,55
+2018,Local Business,Shanghai,Series C,1491,no market need,56
+2018,Health,Shanghai,Angel Round,1825,no business model,57
+2018,Real Estate,Shanghai,Series B,1766,ran out of cash,58
+2018,Real Estate,Shanghai,Angel Round,1943,burn out,59
+2018,Entertainment,Shanghai,Series A,1121,burn out,60
+2018,Health,Shanghai,Angel Round,1316,no business model,61
+2018,Travel,Shanghai,Acquired,2374,product mistimed,62
+2018,Education,Shanghai,Series A,1516,ran out of cash,63
+2018,Education,Shanghai,Series A,1135,burn out,64
+2018,Enterprise Service,Shanghai,Angel Round,1414,product mistimed,65
+2018,Finance,Shanghai,Strategic,1351,supervision,66
+2018,Finance,Shanghai,Series B,1781,supervision,67
+2018,Finance,Shanghai,Strategic,1781,supervision,68
+2018,Finance,Shanghai,Series A,1478,supervision,69
+2018,Finance,Shanghai,Strategic,1382,legal challenges,70
+2018,Finance,Shanghai,Pre-A Round,1319,supervision,71
+2018,Finance,Shanghai,Series A,1897,supervision,72
+2018,Finance,Shanghai,Angel Round,1497,no market need,73
+2018,Finance,Shanghai,Series A+,1374,supervision,74
+2018,Social Media,Shanghai,No Funding,5362,lose focus,75
+2018,Enterprise Service,Shanghai,Angel Round,1157,get outcompeted,76
+2018,Finance,Shanghai,Angel Round,1096,supervision,77
+2017,Travel,Shanghai,Series A+,1886,get outcompeted,78
+2017,Finance,Shanghai,Series B,1521,supervision,79
+2017,E-Commerce,Shanghai,Acquired,1978,pricing/cost issue,80
+2017,Entertainment,Shanghai,No Funding,2252,no business model,81
+2017,E-Commerce,Shanghai,Angel Round,1825,no market need,82
+2017,E-Commerce,Shanghai,No Funding,1947,no business model,83
+2017,Social Media,Shanghai,No Funding,1917,no market need,84
+2017,Real Estate,Shanghai,Angel Round,1917,no market need,85
+2017,Travel,Shanghai,No Funding,1825,no business model,86
+2017,Game,Shanghai,Angel Round,1947,burn out,87
+2017,Local Business,Shanghai,No Funding,1825,lose focus,88
+2017,E-Commerce,Shanghai,Angel Round,1735,no business model,89
+2017,E-Commerce,Shanghai,No Funding,1340,no business model,90
+2017,Sports,Shanghai,Angel Round,2191,legal challenges,91
+2017,Transportation,Shanghai,Series B,1552,pricing/cost issue,92
+2017,Local Business,Shanghai,Pre-A Round,1582,pricing/cost issue,93
+2017,Education,Shanghai,Angel Round,1856,no business model,94
+2017,Entertainment,Shanghai,Angel Round,1705,pivot gone bad,95
+2017,Tool,Shanghai,No Funding,1582,no market need,96
+2017,Transportation,Shanghai,Angel Round,1705,no market need,97
+2017,Entertainment,Shanghai,Series A,1978,no market need,98
+2017,Entertainment,Shanghai,Angel Round,1582,product mistimed,99
+2017,Education,Shanghai,No Funding,1674,no business model,100
+2017,Social Media,Shanghai,No Funding,2770,no business model,101
+2017,E-Commerce,Shanghai,Series A,1856,no market need,102
+2017,Enterprise Service,Shanghai,Angel Round,1735,ignore customers,103
+2017,Transportation,Shanghai,No Funding,2222,no business model,104
+2017,Education,Shanghai,Series A,1552,no market need,105
+2017,Travel,Shanghai,Series C,2191,no business model,106
+2017,E-Commerce,Shanghai,No Funding,2405,get outcompeted,107
+2017,Marketing,Shanghai,Angel Round,1644,no market need,108
+2017,Real Estate,Shanghai,No Funding,1552,no business model,109
+2017,Local Business,Shanghai,Angel Round,1582,poor marketing,110
+2017,Enterprise Service,Shanghai,Pre-A Round,2131,get outcompeted,111
+2017,Transportation,Shanghai,Acquired,1825,failure to pivot,112
+2017,Enterprise Service,Shanghai,Angel Round,2191,ignore customers,113
+2017,Social Media,Shanghai,No Funding,2039,no market need,114
+2017,Health,Shanghai,Angel Round,1917,lose focus,115
+2017,Game,Shanghai,Series A,2678,no market need,116
+2017,Education,Shanghai,No Funding,1613,product mistimed,117
+2017,E-Commerce,Shanghai,Series A,1674,no market need,118
+2017,Social Media,Shanghai,Angel Round,1825,no market need,119
+2017,Social Media,Shanghai,No Funding,1947,no business model,120
+2017,E-Commerce,Shanghai,Pre-A Round,1081,burn out,121
+2017,E-Commerce,Shanghai,Angel Round,613,no business model,122
+2017,Transportation,Shanghai,Angel Round,858,burn out,123
+2017,Finance,Shanghai,No Funding,1010,no business model,124
+2017,Entertainment,Shanghai,No Funding,1007,no market need,125
+2017,Transportation,Shanghai,Angel Round,1037,no market need,126
+2017,E-Commerce,Shanghai,No Funding,847,no business model,127
+2017,Game,Shanghai,Angel Round,906,no business model,128
+2017,Education,Shanghai,Angel Round,1058,lose focus,129
+2017,Real Estate,Shanghai,Angel Round,996,product mistimed,130
+2017,Enterprise Service,Shanghai,No Funding,631,pivot gone bad,131
+2017,Tool,Shanghai,No Funding,1241,no business model,132
+2017,Finance,Shanghai,Angel Round,631,founder,133
+2017,Enterprise Service,Shanghai,No Funding,631,no business model,134
+2017,Travel,Shanghai,Seed Round,778,no market need,135
+2017,Enterprise Service,Shanghai,Angel Round,678,no market need,136
+2017,Real Estate,Shanghai,Series A,1132,poor product,137
+2017,Travel,Shanghai,Pre-A Round,1101,get outcompeted,138
+2017,E-Commerce,Shanghai,Series A,914,no market need,139
+2017,Local Business,Shanghai,Angel Round,740,no business model,140
+2017,Finance,Shanghai,Series B,787,supervision,141
+2017,Real Estate,Shanghai,Seed Round,736,product mistimed,142
+2017,Health,Shanghai,No Funding,740,no business model,143
+2017,Entertainment,Shanghai,Series A,1466,no business model,144
+2017,Entertainment,Shanghai,Series B,1831,no investor interest,145
+2017,Health,Shanghai,Angel Round,1101,poor marketing,146
+2017,Finance,Shanghai,Series A,370,supervision,147
+2017,Social Media,Shanghai,Angel Round,1105,no market need,148
+2017,Game,Shanghai,Angel Round,1134,burn out,149
+2017,Travel,Shanghai,Acquired,4755,no investor interest,150
+2017,E-Commerce,Shanghai,Angel Round,1101,no business model,151
+2017,E-Commerce,Shanghai,Seed Round,275,no market need,152
+2016,Tool,Shanghai,Angel Round,2040,no market need,153
+2016,Finance,Shanghai,No Funding,2191,pivot gone bad,154
+2016,Enterprise Service,Shanghai,Series A,1887,get outcompeted,155
+2016,Enterprise Service,Shanghai,Angel Round,1918,no investor interest,156
+2016,Local Business,Shanghai,No Funding,2132,no business model,157
+2016,Marketing,Shanghai,No Funding,1887,no market need,158
+2016,E-Commerce,Shanghai,Series A,2160,pricing/cost issue,159
+2016,Social Media,Shanghai,Series A,2040,no market need,160
+2016,Tool,Shanghai,No Funding,2191,no investor interest,161
+2016,Tool,Shanghai,Angel Round,1948,pivot gone bad,162
+2016,Local Business,Shanghai,Angel Round,2040,no market need,163
+2016,Enterprise Service,Shanghai,No Funding,1857,no business model,164
+2016,Enterprise Service,Shanghai,Angel Round,1887,no business model,165
+2016,Marketing,Shanghai,Angel Round,2101,no business model,166
+2016,Game,Shanghai,Angel Round,2132,no investor interest,167
+2016,Game,Shanghai,No Funding,2010,lose focus,168
+2016,Enterprise Service,Shanghai,Series B,2071,no market need,169
+2016,Enterprise Service,Shanghai,No Funding,1887,no business model,170
+2016,Local Business,Shanghai,Series A,720,burn out,171
+2016,E-Commerce,Shanghai,No Funding,682,no market need,172
+2016,E-Commerce,Shanghai,Angel Round,740,no market need,173
+2016,Logistics,Shanghai,Pre-A Round,1466,poor marketing,174
+2016,Transportation,Shanghai,Series A,740,no market need,175
+2016,Social Media,Shanghai,Series A,1832,no market need,176
+2016,Local Business,Shanghai,Series A,1832,founder,177
+2016,Tool,Shanghai,Angel Round,740,no market need,178
+2016,E-Commerce,Shanghai,No Funding,949,no business model,179
+2016,Enterprise Service,Shanghai,No Funding,1221,no business model,180
+2016,Transportation,Shanghai,No Funding,734,product mistimed,181
+2016,Enterprise Service,Shanghai,No Funding,1036,no business model,182
+2016,Finance,Shanghai,No Funding,1005,supervision,183
+2016,Logistics,Shanghai,No Funding,913,no business model,184
+2016,Enterprise Service,Shanghai,No Funding,854,no business model,185
+2016,Entertainment,Shanghai,No Funding,943,pivot gone bad,186
+2016,Local Business,Shanghai,No Funding,1126,no business model,187
+2016,Finance,Shanghai,No Funding,3829,no business model,188
+2016,Enterprise Service,Shanghai,No Funding,2975,lose focus,189
+2016,Social Media,Shanghai,Angel Round,1180,no business model,190
+2016,Local Business,Shanghai,Series A,1800,no business model,191
+2016,Health,Shanghai,Series A,857,no market need,192
+2016,Local Business,Shanghai,Series A,1100,get outcompeted,193
+2016,Game,Shanghai,No Funding,1130,get outcompeted,194
+2016,Education,Shanghai,Angel Round,643,product mistimed,195
+2016,Hardware,Shanghai,Angel Round,1281,no market need,196
+2016,Finance,Shanghai,Series A,431,no business model,197
+2016,Travel,Shanghai,Series A,735,founder,198
+2016,Social Media,Shanghai,Series A,1466,no market need,199
+2016,Health,Shanghai,No Funding,182,no business model,200
+2016,Travel,Shanghai,Series B,1466,no market need,201
+2015,Social Media,Shanghai,Series B,2039,no market need,202
+2015,E-Commerce,Shanghai,Series B,2374,pricing/cost issue,203
+2015,Transportation,Shanghai,No Funding,1947,no business model,204
+2015,E-Commerce,Shanghai,Series B,2100,pricing/cost issue,205
+2015,Tool,Shanghai,No Funding,2190,get outcompeted,206
+2015,Game,Shanghai,Series A,2100,get outcompeted,207
+2015,Finance,Shanghai,Angel Round,2374,supervision,208
+2015,E-Commerce,Shanghai,Series A,2070,ignore customers,209
+2015,Social Media,Shanghai,Series A,2039,pivot gone bad,210
+2015,Local Business,Shanghai,Angel Round,1856,no market need,211
+2015,Entertainment,Shanghai,Series A,1886,no investor interest,212
+2015,Local Business,Shanghai,Angel Round,2496,get outcompeted,213
+2015,Education,Shanghai,Angel Round,2465,poor product,214
+2015,E-Commerce,Shanghai,No Funding,2100,get outcompeted,215
+2015,E-Commerce,Shanghai,Series A,1978,pricing/cost issue,216
+2015,Health,Shanghai,No Funding,1188,no business model,217
+2015,Social Media,Shanghai,No Funding,634,no market need,218
+2015,Tool,Shanghai,No Funding,5687,no business model,219
+2015,Tool,Shanghai,Angel Round,878,no market need,220
+2015,Game,Shanghai,No Funding,694,no business model,221
+2015,Game,Shanghai,No Funding,694,no business model,222
+2015,Finance,Shanghai,No Funding,878,no business model,223
+2015,Finance,Shanghai,No Funding,1547,no business model,224
+2015,Social Media,Shanghai,No Funding,2124,no business model,225
+2015,Local Business,Shanghai,No Funding,785,product mistimed,226
+2015,Enterprise Service,Shanghai,No Funding,1089,pivot gone bad,227
+2015,Social Media,Shanghai,No Funding,1088,no business model,228
+2015,New Industry,Shanghai,No Funding,815,no business model,229
+2015,New Industry,Shanghai,No Funding,1301,no business model,230
+2015,Finance,Shanghai,Angel Round,1148,no business model,231
+2015,Local Business,Shanghai,Series D,3722,no business model,232
+2015,Enterprise Service,Shanghai,Series A,1831,get outcompeted,233
+2014,E-Commerce,Shanghai,Series B,2221,get outcompeted,234
+2014,Hardware,Shanghai,Series A,1071,pricing/cost issue,235
+2014,Enterprise Service,Shanghai,No Funding,1160,no business model,236
+2014,Game,Shanghai,No Funding,1249,no business model,237
+2014,E-Commerce,Shanghai,No Funding,2251,no business model,238
+2014,Enterprise Service,Shanghai,No Funding,1153,no business model,239
+2014,Hardware,Shanghai,No Funding,1302,poor product,240
+2014,Travel,Shanghai,Angel Round,1243,no market need,241
+2014,Social Media,Shanghai,No Funding,2245,no business model,242
+2014,Transportation,Shanghai,No Funding,749,get outcompeted,243
+2014,Education,Shanghai,Angel Round,947,product mistimed,244
+2014,Local Business,Shanghai,Angel Round,947,failure to pivot,245
+2014,Enterprise Service,Shanghai,No Funding,1113,pivot gone bad,246
+2013,Local Business,Shanghai,Series A,2525,no investor interest,247
+2013,E-Commerce,Shanghai,No Funding,514,no business model,248
+2013,Marketing,Shanghai,No Funding,1303,no business model,249
+2013,E-Commerce,Shanghai,No Funding,1059,no business model,250
+2013,Tool,Shanghai,Public,4954,no business model,251
+2012,Transportation,Shanghai,Angel Round,2283,no business model,252
+2012,New Industry,Shanghai,Series C,2556,pivot gone bad,253
+2011,Travel,Shanghai,Angel Round,2374,pivot gone bad,254
+2011,Education,Shanghai,Series B,1312,ran out of cash,255
+2010,Game,Shanghai,Series B,907,no market need,256
+2010,Social Media,Shanghai,No Funding,1270,pivot gone bad,257
+2019,Finance,Zhejiang,Series A,2214,supervision,258
+2019,E-Commerce,Zhejiang,No Funding,556,ran out of cash,259
+2019,Local Business,Zhejiang,Seed Round,1126,no business model,260
+2019,Entertainment,Zhejiang,Angel Round,1431,no business model,261
+2019,E-Commerce,Zhejiang,Seed Round,638,no market need,262
+2019,Transportation,Zhejiang,Series A,1431,pricing/cost issue,263
+2019,Entertainment,Zhejiang,Angel Round,881,lose focus,264
+2019,Enterprise Service,Zhejiang,Angel Round,1369,product mistimed,265
+2019,Social Media,Zhejiang,Angel Round,1431,no business model,266
+2019,Tool,Zhejiang,Pre-A Round,1492,no business model,267
+2019,Finance,Zhejiang,Angel Round,730,supervision,268
+2019,Transportation,Zhejiang,Series B,1065,burn out,269
+2019,Enterprise Service,Zhejiang,Angel Round,1187,product mistimed,270
+2019,Local Business,Zhejiang,Seed Round,912,no market need,271
+2019,Hardware,Zhejiang,No Funding,1278,pricing/cost issue,272
+2019,Social Media,Zhejiang,Angel Round,1553,no business model,273
+2019,Finance,Zhejiang,No Funding,1431,no investor interest,274
+2019,Finance,Zhejiang,Series B,1753,supervision,275
+2019,Finance,Zhejiang,Series B,1927,legal challenges,276
+2019,Finance,Zhejiang,Series B,1863,legal challenges,277
+2019,Enterprise Service,Zhejiang,Angel Round,1394,pivot gone bad,278
+2019,Finance,Zhejiang,Series A+,1627,supervision,279
+2018,Health,Zhejiang,Series A,1491,burn out,280
+2018,E-Commerce,Zhejiang,Angel Round,1794,lose focus,281
+2018,E-Commerce,Zhejiang,Series A,1613,no business model,282
+2018,Finance,Zhejiang,No Funding,1825,supervision,283
+2018,E-Commerce,Zhejiang,No Funding,1674,get outcompeted,284
+2018,Education,Zhejiang,Series A,1644,ran out of cash,285
+2018,Local Business,Zhejiang,Angel Round,1491,no market need,286
+2018,Education,Zhejiang,Angel Round,1644,no market need,287
+2018,Local Business,Zhejiang,Angel Round,1613,no business model,288
+2018,E-Commerce,Zhejiang,Seed Round,1582,no market need,289
+2018,E-Commerce,Zhejiang,Angel Round,1582,no market need,290
+2018,Local Business,Zhejiang,Angel Round,1491,get outcompeted,291
+2018,Entertainment,Zhejiang,Series B,2339,ran out of cash,292
+2018,Hardware,Zhejiang,Series B,1456,ran out of cash,293
+2018,Health,Zhejiang,Seed Round,872,no business model,294
+2018,Real Estate,Zhejiang,Angel Round,902,supervision,295
+2018,Finance,Zhejiang,Series A,1288,supervision,296
+2018,Finance,Zhejiang,Series A,1318,supervision,297
+2018,Finance,Zhejiang,Series A,800,supervision,298
+2018,Finance,Zhejiang,Series A,1105,supervision,299
+2018,Finance,Zhejiang,No Funding,1285,pivot gone bad,300
+2018,Finance,Zhejiang,Angel Round,1104,supervision,301
+2018,Enterprise Service,Zhejiang,Series A,1070,legal challenges,302
+2018,Finance,Zhejiang,Series A,1067,supervision,303
+2018,E-Commerce,Zhejiang,Angel Round,1065,get outcompeted,304
+2017,Finance,Zhejiang,No Funding,1521,supervision,305
+2017,Transportation,Zhejiang,No Funding,1825,get outcompeted,306
+2017,E-Commerce,Zhejiang,No Funding,1886,pivot gone bad,307
+2017,E-Commerce,Zhejiang,No Funding,2466,no business model,308
+2017,Transportation,Zhejiang,Series A,1947,get outcompeted,309
+2017,Local Business,Zhejiang,Angel Round,2191,get outcompeted,310
+2017,E-Commerce,Zhejiang,No Funding,2160,lose focus,311
+2017,Transportation,Zhejiang,Series A,1552,get outcompeted,312
+2017,Social Media,Zhejiang,Angel Round,2009,lose focus,313
+2017,Education,Zhejiang,Angel Round,1947,ran out of cash,314
+2017,E-Commerce,Zhejiang,Angel Round,1917,no market need,315
+2017,Local Business,Zhejiang,Angel Round,4072,get outcompeted,316
+2017,Enterprise Service,Zhejiang,Series A,741,no business model,317
+2017,Local Business,Zhejiang,Series A,795,burn out,318
+2017,Local Business,Zhejiang,Angel Round,784,pivot gone bad,319
+2017,Education,Zhejiang,Angel Round,824,pivot gone bad,320
+2017,Entertainment,Zhejiang,No Funding,3097,lose focus,321
+2017,E-Commerce,Zhejiang,Series A,1101,failure to pivot,322
+2017,Enterprise Service,Zhejiang,Series A,736,product mistimed,323
+2016,Tool,Zhejiang,No Funding,2101,lose focus,324
+2016,Social Media,Zhejiang,Angel Round,1979,get outcompeted,325
+2016,E-Commerce,Zhejiang,Angel Round,1979,no market need,326
+2016,Tool,Zhejiang,No Funding,1310,no business model,327
+2016,Tool,Zhejiang,No Funding,1310,no business model,328
+2016,Transportation,Zhejiang,No Funding,1301,get outcompeted,329
+2016,Travel,Zhejiang,Series A,1130,no business model,330
+2016,Local Business,Zhejiang,Series B,673,no market need,331
+2016,Finance,Zhejiang,Series A,551,product mistimed,332
+2016,Entertainment,Zhejiang,Angel Round,763,product mistimed,333
+2016,Entertainment,Zhejiang,Angel Round,1401,no market need,334
+2015,Local Business,Zhejiang,No Funding,1886,get outcompeted,335
+2015,Travel,Zhejiang,No Funding,2190,get outcompeted,336
+2015,Hardware,Zhejiang,No Funding,1947,no investor interest,337
+2015,Marketing,Zhejiang,No Funding,1856,failure to pivot,338
+2015,Education,Zhejiang,Series A,2343,no business model,339
+2015,Transportation,Zhejiang,No Funding,1066,failure to pivot,340
+2015,Tool,Zhejiang,No Funding,1034,no business model,341
+2015,Marketing,Zhejiang,No Funding,999,no business model,342
+2015,Tool,Zhejiang,No Funding,6204,no business model,343
+2015,Tool,Zhejiang,No Funding,1576,no business model,344
+2015,E-Commerce,Zhejiang,No Funding,2588,no business model,345
+2015,Real Estate,Zhejiang,Angel Round,1470,pricing/cost issue,346
+2014,E-Commerce,Zhejiang,No Funding,1214,no business model,347
+2014,E-Commerce,Zhejiang,No Funding,3313,no business model,348
+2013,Hardware,Zhejiang,Series A,1373,no investor interest,349
+2012,Social Media,Zhejiang,No Funding,1010,product mistimed,350
+2012,Entertainment,Zhejiang,No Funding,1152,pivot gone bad,351
+2010,Education,Zhejiang,Acquired,1221,pivot gone bad,352
+2019,Health,Guangdong,No Funding,1887,get outcompeted,353
+2019,Tool,Guangdong,Series A,914,no business model,354
+2019,Local Business,Guangdong,Series A+,1603,burn out,355
+2019,Health,Guangdong,No Funding,2454,no market need,356
+2019,E-Commerce,Guangdong,Series A,1461,no market need,357
+2019,Real Estate,Guangdong,Series A,1553,supervision,358
+2019,Tool,Guangdong,Angel Round,1369,no market need,359
+2019,Health,Guangdong,No Funding,1156,no business model,360
+2019,Enterprise Service,Guangdong,Angel Round,1461,no market need,361
+2019,Real Estate,Guangdong,Series A,1461,product mistimed,362
+2019,Social Media,Guangdong,Angel Round,1612,no market need,363
+2019,Local Business,Guangdong,Strategic,637,founder,364
+2019,Transportation,Guangdong,Series A,764,founder,365
+2019,Finance,Guangdong,Series D,2800,supervision,366
+2019,Finance,Guangdong,Angel Round,3126,supervision,367
+2018,Local Business,Guangdong,Angel Round,1825,no business model,368
+2018,E-Commerce,Guangdong,No Funding,1735,no investor interest,369
+2018,Logistics,Guangdong,Series A,1825,founder,370
+2018,Sports,Guangdong,Angel Round,1766,product mistimed,371
+2018,Entertainment,Guangdong,Series A+,1613,product mistimed,372
+2018,Local Business,Guangdong,Series A,1644,pivot gone bad,373
+2018,Transportation,Guangdong,Angel Round,1491,no market need,374
+2018,E-Commerce,Guangdong,Series A,1552,pivot gone bad,375
+2018,Local Business,Guangdong,No Funding,1644,pricing/cost issue,376
+2018,Hardware,Guangdong,No Funding,1644,ran out of cash,377
+2018,Hardware,Guangdong,Angel Round,1735,no market need,378
+2018,Social Media,Guangdong,Series A,1644,product mistimed,379
+2018,Health,Guangdong,No Funding,1552,no business model,380
+2018,Social Media,Guangdong,Angel Round,1491,no market need,381
+2018,E-Commerce,Guangdong,Angel Round,1674,no market need,382
+2018,E-Commerce,Guangdong,Series A,1552,team/investors,383
+2018,E-Commerce,Guangdong,No Funding,1613,pricing/cost issue,384
+2018,Local Business,Guangdong,Angel Round,1766,no market need,385
+2018,Sports,Guangdong,Pre-A Round,1825,ran out of cash,386
+2018,Transportation,Guangdong,No Funding,1644,no market need,387
+2018,E-Commerce,Guangdong,Angel Round,1521,no business model,388
+2018,Social Media,Guangdong,Angel Round,1644,no market need,389
+2018,E-Commerce,Guangdong,Acquired,1552,burn out,390
+2018,Hardware,Guangdong,Pre-A Round,1766,product mistimed,391
+2018,E-Commerce,Guangdong,No Funding,1825,pivot gone bad,392
+2018,Finance,Guangdong,No Funding,1582,ran out of cash,393
+2018,Social Media,Guangdong,Angel Round,1582,no investor interest,394
+2018,Education,Guangdong,Angel Round,1613,lose focus,395
+2018,Logistics,Guangdong,Pre-A Round,869,get outcompeted,396
+2018,Sports,Guangdong,Series C,1275,product mistimed,397
+2018,Finance,Guangdong,Series B,1411,supervision,398
+2018,Game,Guangdong,Series B,1280,founder,399
+2018,Finance,Guangdong,Series B,1280,ran out of cash,400
+2018,Local Business,Guangdong,Angel Round,1006,no business model,401
+2017,Entertainment,Guangdong,Angel Round,1886,no business model,402
+2017,Entertainment,Guangdong,No Funding,2039,pivot gone bad,403
+2017,Social Media,Guangdong,Angel Round,2039,pivot gone bad,404
+2017,E-Commerce,Guangdong,No Funding,2100,no market need,405
+2017,Enterprise Service,Guangdong,Angel Round,2191,get outcompeted,406
+2017,Social Media,Guangdong,No Funding,1766,pivot gone bad,407
+2017,Enterprise Service,Guangdong,No Funding,1886,get outcompeted,408
+2017,Finance,Guangdong,Series A,1886,founder,409
+2017,E-Commerce,Guangdong,No Funding,1917,get outcompeted,410
+2017,Local Business,Guangdong,Angel Round,1947,pivot gone bad,411
+2017,Game,Guangdong,Series A,1917,legal challenges,412
+2017,Education,Guangdong,No Funding,1766,no business model,413
+2017,Social Media,Guangdong,No Funding,1825,product mistimed,414
+2017,Health,Guangdong,No Funding,1825,no business model,415
+2017,Tool,Guangdong,Angel Round,1644,no market need,416
+2017,Education,Guangdong,No Funding,1825,no business model,417
+2017,New Industry,Guangdong,Series A,1552,pivot gone bad,418
+2017,Logistics,Guangdong,Series D,1886,ran out of cash,419
+2017,Local Business,Guangdong,Angel Round,1521,get outcompeted,420
+2017,Hardware,Guangdong,Angel Round,1825,pricing/cost issue,421
+2017,Finance,Guangdong,Angel Round,1825,no market need,422
+2017,Travel,Guangdong,Series A,1644,get outcompeted,423
+2017,E-Commerce,Guangdong,Series A,1856,no investor interest,424
+2017,E-Commerce,Guangdong,Angel Round,1613,ran out of cash,425
+2017,Hardware,Guangdong,No Funding,1856,pricing/cost issue,426
+2017,Marketing,Guangdong,No Funding,1766,no business model,427
+2017,Local Business,Guangdong,No Funding,1856,product mistimed,428
+2017,E-Commerce,Guangdong,No Funding,1917,no business model,429
+2017,Tool,Guangdong,No Funding,1917,pivot gone bad,430
+2017,E-Commerce,Guangdong,No Funding,2070,no business model,431
+2017,Hardware,Guangdong,Strategic,3272,pricing/cost issue,432
+2017,Real Estate,Guangdong,Pre-A Round,822,ran out of cash,433
+2017,Social Media,Guangdong,Series B,2954,poor product,434
+2017,E-Commerce,Guangdong,No Funding,816,no market need,435
+2017,Entertainment,Guangdong,No Funding,919,no business model,436
+2017,Local Business,Guangdong,No Funding,891,no market need,437
+2017,Real Estate,Guangdong,No Funding,829,get outcompeted,438
+2017,Hardware,Guangdong,Series A,1038,product mistimed,439
+2017,E-Commerce,Guangdong,No Funding,1007,no business model,440
+2017,E-Commerce,Guangdong,No Funding,1007,no business model,441
+2017,E-Commerce,Guangdong,No Funding,266,product mistimed,442
+2017,E-Commerce,Guangdong,Series A,740,no investor interest,443
+2017,Social Media,Guangdong,Series A,1105,no market need,444
+2017,Local Business,Guangdong,Angel Round,1040,no investor interest,445
+2017,Entertainment,Guangdong,Angel Round,736,lose focus,446
+2017,Local Business,Guangdong,Angel Round,700,get outcompeted,447
+2017,Social Media,Guangdong,Angel Round,740,no market need,448
+2017,Travel,Guangdong,Angel Round,522,no business model,449
+2017,Local Business,Guangdong,Pre-A Round,2192,pivot gone bad,450
+2017,Social Media,Guangdong,Angel Round,976,get outcompeted,451
+2017,Education,Guangdong,Angel Round,945,no business model,452
+2016,Social Media,Guangdong,Angel Round,1979,no business model,453
+2016,Tool,Guangdong,No Funding,1857,pivot gone bad,454
+2016,Entertainment,Guangdong,No Funding,1887,product mistimed,455
+2016,Marketing,Guangdong,Series B,1948,ignore customers,456
+2016,Hardware,Guangdong,Series A,1918,pricing/cost issue,457
+2016,Enterprise Service,Guangdong,No Funding,2132,get outcompeted,458
+2016,Enterprise Service,Guangdong,No Funding,2132,pricing/cost issue,459
+2016,Travel,Guangdong,Angel Round,1101,no business model,460
+2016,Local Business,Guangdong,No Funding,768,no market need,461
+2016,Finance,Guangdong,No Funding,764,no business model,462
+2016,Enterprise Service,Guangdong,No Funding,943,no business model,463
+2016,E-Commerce,Guangdong,No Funding,1245,no business model,464
+2016,Social Media,Guangdong,No Funding,3036,no business model,465
+2016,E-Commerce,Guangdong,Series A,765,no business model,466
+2016,New Industry,Guangdong,No Funding,1191,ran out of cash,467
+2016,Entertainment,Guangdong,Angel Round,1159,pivot gone bad,468
+2016,Finance,Guangdong,Strategic,340,supervision,469
+2015,Finance,Guangdong,Series A,2404,no business model,470
+2015,E-Commerce,Guangdong,Series B,2131,get outcompeted,471
+2015,Social Media,Guangdong,Series A,2131,pivot gone bad,472
+2015,Game,Guangdong,No Funding,2496,get outcompeted,473
+2015,Game,Guangdong,Series A,2282,get outcompeted,474
+2015,E-Commerce,Guangdong,Series A,1917,pricing/cost issue,475
+2015,Entertainment,Guangdong,No Funding,2343,no market need,476
+2015,Logistics,Guangdong,No Funding,1978,pivot gone bad,477
+2015,Real Estate,Guangdong,No Funding,647,no business model,478
+2015,Local Business,Guangdong,No Funding,1346,no business model,479
+2015,Local Business,Guangdong,No Funding,944,no business model,480
+2015,Real Estate,Guangdong,No Funding,943,get outcompeted,481
+2015,Education,Guangdong,No Funding,1826,no business model,482
+2015,Finance,Guangdong,No Funding,1034,no business model,483
+2015,Hardware,Guangdong,Series B,1488,pricing/cost issue,484
+2015,Local Business,Guangdong,Angel Round,634,ran out of cash,485
+2015,Entertainment,Guangdong,Angel Round,694,poor marketing,486
+2015,Tool,Guangdong,No Funding,725,no business model,487
+2015,Real Estate,Guangdong,No Funding,631,no business model,488
+2015,Entertainment,Guangdong,No Funding,1392,pivot gone bad,489
+2014,Transportation,Guangdong,No Funding,1917,no business model,490
+2014,Game,Guangdong,No Funding,2404,get outcompeted,491
+2014,Entertainment,Guangdong,No Funding,998,get outcompeted,492
+2014,Entertainment,Guangdong,Series A,2784,legal challenges,493
+2014,Entertainment,Guangdong,No Funding,380,legal challenges,494
+2014,Hardware,Guangdong,No Funding,623,legal challenges,495
+2014,E-Commerce,Guangdong,Series B,1826,pivot gone bad,496
+2012,Social Media,Guangdong,No Funding,2375,pivot gone bad,497
+2012,Social Media,Guangdong,No Funding,2375,pivot gone bad,498
+2012,Transportation,Guangdong,No Funding,267,no business model,499
+2012,Enterprise Service,Guangdong,Angel Round,931,ignore customers,500
+2011,Hardware,Guangdong,Series A,2404,no investor interest,501
+2011,Health,Guangdong,No Funding,1271,pivot gone bad,502
+2019,E-Commerce,Fujian,No Funding,727,ran out of cash,503
+2019,Local Business,Fujian,Angel Round,1461,no market need,504
+2018,Tool,Fujian,No Funding,1825,no investor interest,505
+2018,Social Media,Fujian,Angel Round,1644,no market need,506
+2018,Hardware,Fujian,Angel Round,1582,ran out of cash,507
+2018,Tool,Fujian,Angel Round,1065,no market need,508
+2017,Health,Fujian,Angel Round,1521,pivot gone bad,509
+2017,Game,Fujian,No Funding,1978,pivot gone bad,510
+2017,Finance,Fujian,No Funding,2039,ran out of cash,511
+2017,Social Media,Fujian,No Funding,2710,no business model,512
+2017,E-Commerce,Fujian,Angel Round,1043,lose focus,513
+2017,Transportation,Fujian,Seed Round,151,product mistimed,514
+2016,Entertainment,Fujian,No Funding,2010,no market need,515
+2016,Game,Fujian,No Funding,2132,no investor interest,516
+2016,Game,Fujian,No Funding,2132,no investor interest,517
+2016,Local Business,Fujian,Series A,1119,no business model,518
+2015,Entertainment,Fujian,No Funding,1979,no business model,519
+2014,Marketing,Fujian,No Funding,1096,no business model,520
+2014,Entertainment,Fujian,No Funding,1911,no business model,521
+2013,Local Business,Fujian,No Funding,969,no market need,522
+2011,Entertainment,Fujian,No Funding,692,no business model,523
+2019,Health,Beijing,No Funding,1750,supervision,524
+2019,Health,Beijing,Angel Round,229,no business model,525
+2019,E-Commerce,Beijing,Acquired,4136,pivot gone bad,526
+2019,Education,Beijing,No Funding,1602,no business model,527
+2019,E-Commerce,Beijing,Series C,3924,ran out of cash,528
+2019,Finance,Beijing,No Funding,1443,supervision,529
+2019,Transportation,Beijing,Angel Round,1381,burn out,530
+2019,E-Commerce,Beijing,Seed Round,1461,no market need,531
+2019,Social Media,Beijing,Angel Round,1522,ran out of cash,532
+2019,Health,Beijing,No Funding,1612,pivot gone bad,533
+2019,Finance,Beijing,Angel Round,516,supervision,534
+2019,Enterprise Service,Beijing,Angel Round,1400,product mistimed,535
+2019,Hardware,Beijing,No Funding,1612,no market need,536
+2019,Finance,Beijing,Angel Round,1492,no market need,537
+2019,Local Business,Beijing,Angel Round,1278,ran out of cash,538
+2019,Transportation,Beijing,Acquired,1553,get outcompeted,539
+2019,Local Business,Beijing,Series A,822,poor product,540
+2019,E-Commerce,Beijing,Series A,1581,burn out,541
+2019,Entertainment,Beijing,No Funding,2252,no business model,542
+2019,E-Commerce,Beijing,Angel Round,1492,no business model,543
+2019,Education,Beijing,Angel Round,1431,no business model,544
+2019,Tool,Beijing,Angel Round,1216,no market need,545
+2019,E-Commerce,Beijing,Angel Round,1339,pricing/cost issue,546
+2019,Sports,Beijing,No Funding,1247,pricing/cost issue,547
+2019,Social Media,Beijing,No Funding,1461,no market need,548
+2019,Health,Beijing,Angel Round,1612,no business model,549
+2019,Social Media,Beijing,Angel Round,1522,no market need,550
+2019,E-Commerce,Beijing,Series A,1522,product mistimed,551
+2019,Entertainment,Beijing,Angel Round,1612,no market need,552
+2019,E-Commerce,Beijing,Angel Round,1461,no market need,553
+2019,Local Business,Beijing,Seed Round,1216,no investor interest,554
+2019,Health,Beijing,Angel Round,1431,no investor interest,555
+2019,Transportation,Beijing,Angel Round,1612,burn out,556
+2019,E-Commerce,Beijing,No Funding,1339,no market need,557
+2019,E-Commerce,Beijing,Angel Round,1126,no market need,558
+2019,E-Commerce,Beijing,No Funding,1339,no investor interest,559
+2019,E-Commerce,Beijing,Angel Round,1553,get outcompeted,560
+2019,Social Media,Beijing,Angel Round,1369,no business model,561
+2019,Finance,Beijing,Angel Round,1612,no market need,562
+2019,Finance,Beijing,Angel Round,1278,no business model,563
+2019,Local Business,Beijing,Angel Round,912,get outcompeted,564
+2019,Health,Beijing,Acquired,1612,no business model,565
+2019,Health,Beijing,Acquired,1612,no business model,566
+2019,Tool,Beijing,No Funding,1278,no market need,567
+2019,Social Media,Beijing,Angel Round,1581,no market need,568
+2019,Logistics,Beijing,No Funding,1553,get outcompeted,569
+2019,Health,Beijing,No Funding,1400,pricing/cost issue,570
+2019,Social Media,Beijing,Strategic,547,founder,571
+2019,Enterprise Service,Beijing,Series A,1461,pivot gone bad,572
+2019,Finance,Beijing,No Funding,1156,supervision,573
+2019,Education,Beijing,Seed Round,1553,product mistimed,574
+2019,Enterprise Service,Beijing,Angel Round,1247,pivot gone bad,575
+2019,Social Media,Beijing,Angel Round,1308,poor product,576
+2019,E-Commerce,Beijing,Angel Round,1612,ran out of cash,577
+2019,Social Media,Beijing,Pre-A Round,1522,no market need,578
+2019,Enterprise Service,Beijing,Angel Round,1492,no market need,579
+2019,Enterprise Service,Beijing,Series A,1612,pivot gone bad,580
+2019,Transportation,Beijing,Angel Round,1612,product mistimed,581
+2019,Finance,Beijing,Acquired,1553,supervision,582
+2019,Local Business,Beijing,Angel Round,1522,product mistimed,583
+2019,Transportation,Beijing,Pre-A Round,1461,product mistimed,584
+2019,Enterprise Service,Beijing,Series A,1396,founder,585
+2019,Enterprise Service,Beijing,Angel Round,1364,get outcompeted,586
+2019,Logistics,Beijing,Strategic,3074,ignore customers,587
+2019,Enterprise Service,Beijing,Series B,1726,product mistimed,588
+2019,Local Business,Beijing,Series B,1798,team/investors,589
+2019,Finance,Beijing,Series B,2791,ran out of cash,590
+2019,Education,Beijing,Acquired,870,ran out of cash,591
+2019,Health,Beijing,Angel Round,1417,no business model,592
+2018,Finance,Beijing,No Funding,1825,pivot gone bad,593
+2018,E-Commerce,Beijing,Angel Round,1552,no market need,594
+2018,E-Commerce,Beijing,Series B,1825,ran out of cash,595
+2018,Local Business,Beijing,Pre-A Round,1491,lose focus,596
+2018,Health,Beijing,No Funding,1613,lose focus,597
+2018,Education,Beijing,Angel Round,1613,lose focus,598
+2018,Marketing,Beijing,Angel Round,1674,no investor interest,599
+2018,Education,Beijing,Angel Round,1825,ran out of cash,600
+2018,Transportation,Beijing,Angel Round,1491,product mistimed,601
+2018,Sports,Beijing,Angel Round,1582,no investor interest,602
+2018,Enterprise Service,Beijing,Series A,1613,no business model,603
+2018,Game,Beijing,Angel Round,1825,get outcompeted,604
+2018,Enterprise Service,Beijing,Series A,1613,no business model,605
+2018,Education,Beijing,Angel Round,1674,ran out of cash,606
+2018,Social Media,Beijing,Series A,1582,no business model,607
+2018,Social Media,Beijing,Angel Round,1613,no business model,608
+2018,Local Business,Beijing,Acquired,1491,product mistimed,609
+2018,E-Commerce,Beijing,No Funding,1825,lose focus,610
+2018,Social Media,Beijing,Angel Round,1825,no market need,611
+2018,Real Estate,Beijing,Series A,1674,no business model,612
+2018,Entertainment,Beijing,Angel Round,1491,product mistimed,613
+2018,Entertainment,Beijing,No Funding,1825,no business model,614
+2018,Local Business,Beijing,Angel Round,1521,pivot gone bad,615
+2018,Transportation,Beijing,Angel Round,1735,poor product,616
+2018,Local Business,Beijing,Angel Round,1674,no business model,617
+2018,Travel,Beijing,Angel Round,1644,no market need,618
+2018,Sports,Beijing,Angel Round,1491,no market need,619
+2018,Sports,Beijing,No Funding,1582,no business model,620
+2018,Enterprise Service,Beijing,Angel Round,1552,get outcompeted,621
+2018,Transportation,Beijing,Angel Round,1735,burn out,622
+2018,Transportation,Beijing,Series A+,1766,burn out,623
+2018,Entertainment,Beijing,Series A,1674,no business model,624
+2018,Local Business,Beijing,Angel Round,1644,product mistimed,625
+2018,Local Business,Beijing,Series A,1766,burn out,626
+2018,Transportation,Beijing,Angel Round,1825,no market need,627
+2018,Sports,Beijing,Angel Round,1552,no market need,628
+2018,Transportation,Beijing,Series A,1766,burn out,629
+2018,Transportation,Beijing,No Funding,1856,no business model,630
+2018,Enterprise Service,Beijing,Seed Round,1674,no market need,631
+2018,Enterprise Service,Beijing,No Funding,1735,ignore customers,632
+2018,Enterprise Service,Beijing,Angel Round,1886,no investor interest,633
+2018,Education,Beijing,No Funding,1491,lose focus,634
+2018,Enterprise Service,Beijing,Angel Round,1521,product mistimed,635
+2018,Finance,Beijing,No Funding,1735,no business model,636
+2018,E-Commerce,Beijing,Angel Round,1705,product mistimed,637
+2018,Travel,Beijing,Angel Round,1582,no market need,638
+2018,Enterprise Service,Beijing,Angel Round,1613,pivot gone bad,639
+2018,Transportation,Beijing,Angel Round,1766,founder,640
+2018,Health,Beijing,Series A,1552,burn out,641
+2018,Travel,Beijing,No Funding,1825,pivot gone bad,642
+2018,Social Media,Beijing,No Funding,2496,no business model,643
+2018,Sports,Beijing,Acquired,1735,no investor interest,644
+2018,Transportation,Beijing,Series B,1856,no business model,645
+2018,Social Media,Beijing,Angel Round,1825,no business model,646
+2018,Tool,Beijing,Pre-A Round,1644,no market need,647
+2018,Entertainment,Beijing,No Funding,1582,no market need,648
+2018,Transportation,Beijing,No Funding,1552,get outcompeted,649
+2018,Local Business,Beijing,Pre-A Round,944,get outcompeted,650
+2018,Education,Beijing,No Funding,3303,no business model,651
+2018,Education,Beijing,Series A,3424,no business model,652
+2018,Social Media,Beijing,Angel Round,1461,no business model,653
+2018,Local Business,Beijing,Angel Round,779,get outcompeted,654
+2018,E-Commerce,Beijing,Series A,1825,get outcompeted,655
+2018,Health,Beijing,Strategic,2052,ran out of cash,656
+2018,E-Commerce,Beijing,Seed Round,735,ran out of cash,657
+2018,Local Business,Beijing,Series A,1189,get outcompeted,658
+2018,Finance,Beijing,Angel Round,1127,lose focus,659
+2018,Finance,Beijing,Series B+,1571,ran out of cash,660
+2018,Finance,Beijing,Series C,1781,supervision,661
+2018,Finance,Beijing,Series A,2111,supervision,662
+2018,Social Media,Beijing,No Funding,1424,no business model,663
+2018,Local Business,Beijing,Series A,627,get outcompeted,664
+2018,Enterprise Service,Beijing,Series A,1323,no investor interest,665
+2018,Enterprise Service,Beijing,No Funding,1460,no business model,666
+2018,E-Commerce,Beijing,Angel Round,3990,no business model,667
+2018,Health,Beijing,No Funding,155,no business model,668
+2018,Finance,Beijing,No Funding,4567,supervision,669
+2018,Travel,Beijing,Series C,2071,no business model,670
+2018,Social Media,Beijing,No Funding,1157,no business model,671
+2018,Local Business,Beijing,Angel Round,153,pricing/cost issue,672
+2018,Travel,Beijing,Angel Round,976,no market need,673
+2018,Entertainment,Beijing,Angel Round,579,failure to pivot,674
+2018,Finance,Beijing,Angel Round,365,supervision,675
+2017,Social Media,Beijing,No Funding,3592,no business model,676
+2017,E-Commerce,Beijing,Angel Round,1705,ran out of cash,677
+2017,Transportation,Beijing,Angel Round,2131,pricing/cost issue,678
+2017,Health,Beijing,Angel Round,1644,lose focus,679
+2017,Social Media,Beijing,Angel Round,1613,pivot gone bad,680
+2017,Travel,Beijing,Acquired,1735,get outcompeted,681
+2017,Tool,Beijing,Angel Round,2160,no business model,682
+2017,Marketing,Beijing,Angel Round,1886,pivot gone bad,683
+2017,E-Commerce,Beijing,Angel Round,1766,no market need,684
+2017,E-Commerce,Beijing,Series A,1978,ran out of cash,685
+2017,Game,Beijing,Series A,1766,poor marketing,686
+2017,Entertainment,Beijing,Series A,2009,lose focus,687
+2017,Education,Beijing,Angel Round,2070,product mistimed,688
+2017,E-Commerce,Beijing,No Funding,1613,poor product,689
+2017,Hardware,Beijing,Series A,1856,pricing/cost issue,690
+2017,Travel,Beijing,Series A+,1644,get outcompeted,691
+2017,Education,Beijing,No Funding,4323,no market need,692
+2017,Entertainment,Beijing,No Funding,1644,lose focus,693
+2017,Entertainment,Beijing,Angel Round,1825,pivot gone bad,694
+2017,Entertainment,Beijing,Angel Round,1886,no business model,695
+2017,Health,Beijing,No Funding,1766,no business model,696
+2017,Real Estate,Beijing,No Funding,2100,no business model,697
+2017,Entertainment,Beijing,Angel Round,1917,no market need,698
+2017,Health,Beijing,Angel Round,1886,ran out of cash,699
+2017,Transportation,Beijing,No Funding,2375,no business model,700
+2017,Education,Beijing,No Funding,1735,pricing/cost issue,701
+2017,Local Business,Beijing,No Funding,2100,get outcompeted,702
+2017,Finance,Beijing,Angel Round,1552,product mistimed,703
+2017,Local Business,Beijing,Series A,1825,founder,704
+2017,Game,Beijing,No Funding,2131,pivot gone bad,705
+2017,Marketing,Beijing,No Funding,1735,no business model,706
+2017,Tool,Beijing,No Funding,2100,pivot gone bad,707
+2017,E-Commerce,Beijing,No Funding,1735,no business model,708
+2017,Travel,Beijing,Angel Round,2009,poor product,709
+2017,Enterprise Service,Beijing,Angel Round,1735,product mistimed,710
+2017,Real Estate,Beijing,No Funding,2100,no business model,711
+2017,Entertainment,Beijing,Angel Round,1825,product mistimed,712
+2017,Education,Beijing,No Funding,1644,not the right team,713
+2017,Tool,Beijing,Angel Round,2191,no market need,714
+2017,Entertainment,Beijing,Angel Round,1552,no market need,715
+2017,Enterprise Service,Beijing,Angel Round,1613,get outcompeted,716
+2017,Education,Beijing,No Funding,2160,no business model,717
+2017,E-Commerce,Beijing,No Funding,2160,no business model,718
+2017,Entertainment,Beijing,No Funding,1825,pivot gone bad,719
+2017,Local Business,Beijing,Angel Round,1552,ran out of cash,720
+2017,Health,Beijing,Angel Round,2160,no business model,721
+2017,E-Commerce,Beijing,No Funding,2100,get outcompeted,722
+2017,Tool,Beijing,Angel Round,2191,no business model,723
+2017,Entertainment,Beijing,Angel Round,1552,pricing/cost issue,724
+2017,Local Business,Beijing,Angel Round,1521,no market need,725
+2017,Enterprise Service,Beijing,Series A,2070,get outcompeted,726
+2017,Enterprise Service,Beijing,No Funding,1978,get outcompeted,727
+2017,Local Business,Beijing,Angel Round,1552,no market need,728
+2017,New Industry,Beijing,Angel Round,1521,ran out of cash,729
+2017,Entertainment,Beijing,No Funding,4931,no business model,730
+2017,Health,Beijing,No Funding,1886,no business model,731
+2017,Marketing,Beijing,No Funding,4931,no business model,732
+2017,E-Commerce,Beijing,No Funding,1794,no business model,733
+2017,Education,Beijing,Angel Round,2191,get outcompeted,734
+2017,Education,Beijing,Angel Round,1978,no investor interest,735
+2017,Education,Beijing,No Funding,1552,no business model,736
+2017,Transportation,Beijing,Series A,2039,no business model,737
+2017,Transportation,Beijing,No Funding,2466,no business model,738
+2017,E-Commerce,Beijing,No Funding,2100,get outcompeted,739
+2017,Travel,Beijing,Series A,1886,get outcompeted,740
+2017,Game,Beijing,Angel Round,1491,product mistimed,741
+2017,E-Commerce,Beijing,Series D,1978,burn out,742
+2017,Enterprise Service,Beijing,No Funding,1521,product mistimed,743
+2017,Game,Beijing,No Funding,1674,no business model,744
+2017,Transportation,Beijing,No Funding,2070,no investor interest,745
+2017,Transportation,Beijing,Angel Round,1552,no market need,746
+2017,E-Commerce,Beijing,No Funding,1978,no business model,747
+2017,Social Media,Beijing,Acquired,2070,no market need,748
+2017,Game,Beijing,Angel Round,2131,pricing/cost issue,749
+2017,Social Media,Beijing,Acquired,2070,no business model,750
+2017,Local Business,Beijing,Angel Round,1644,no business model,751
+2017,Social Media,Beijing,Angel Round,2100,no market need,752
+2017,E-Commerce,Beijing,Angel Round,1613,poor product,753
+2017,Education,Beijing,No Funding,1735,get outcompeted,754
+2017,Entertainment,Beijing,Angel Round,2039,poor product,755
+2017,Sports,Beijing,Angel Round,1644,no investor interest,756
+2017,E-Commerce,Beijing,Series A,1886,product mistimed,757
+2017,Social Media,Beijing,Acquired,3621,no business model,758
+2017,Social Media,Beijing,No Funding,1582,no business model,759
+2017,Enterprise Service,Beijing,No Funding,2100,get outcompeted,760
+2017,Social Media,Beijing,No Funding,2039,no business model,761
+2017,Social Media,Beijing,No Funding,2039,no business model,762
+2017,Marketing,Beijing,No Funding,2436,no business model,763
+2017,Travel,Beijing,Series A,1766,get outcompeted,764
+2017,New Industry,Beijing,Series A,2039,product mistimed,765
+2017,Local Business,Beijing,No Funding,2222,no business model,766
+2017,Education,Beijing,No Funding,1735,pivot gone bad,767
+2017,Local Business,Beijing,Angel Round,2131,no business model,768
+2017,Social Media,Beijing,No Funding,1735,pivot gone bad,769
+2017,Travel,Beijing,Series A,2100,poor marketing,770
+2017,Local Business,Beijing,No Funding,1735,get outcompeted,771
+2017,Sports,Beijing,No Funding,1552,pivot gone bad,772
+2017,Social Media,Beijing,No Funding,1794,no business model,773
+2017,Tool,Beijing,Strategic,2191,no market need,774
+2017,Entertainment,Beijing,Series A,1825,no market need,775
+2017,Travel,Beijing,No Funding,2497,no business model,776
+2017,Real Estate,Beijing,Angel Round,1613,pricing/cost issue,777
+2017,Enterprise Service,Beijing,Angel Round,861,lose focus,778
+2017,Local Business,Beijing,Series C,3991,founder,779
+2017,Social Media,Beijing,Angel Round,1339,no business model,780
+2017,Travel,Beijing,Series A,1542,pivot gone bad,781
+2017,Health,Beijing,Angel Round,792,no business model,782
+2017,Transportation,Beijing,Series A,1211,burn out,783
+2017,Transportation,Beijing,Angel Round,498,supervision,784
+2017,Hardware,Beijing,Series A,1102,product mistimed,785
+2017,E-Commerce,Beijing,No Funding,1099,no business model,786
+2017,Transportation,Beijing,Series A,1764,get outcompeted,787
+2017,Sports,Beijing,Angel Round,855,get outcompeted,788
+2017,Social Media,Beijing,No Funding,1461,no business model,789
+2017,Local Business,Beijing,Series A,860,ran out of cash,790
+2017,E-Commerce,Beijing,No Funding,2168,no business model,791
+2017,Local Business,Beijing,No Funding,946,no business model,792
+2017,Local Business,Beijing,Series B,915,no market need,793
+2017,Travel,Beijing,Angel Round,1219,supervision,794
+2017,Health,Beijing,Angel Round,975,no market need,795
+2017,Health,Beijing,No Funding,3500,no business model,796
+2017,Health,Beijing,Series A,635,get outcompeted,797
+2017,Hardware,Beijing,Angel Round,1303,product mistimed,798
+2017,Hardware,Beijing,Angel Round,905,poor product,799
+2017,Enterprise Service,Beijing,No Funding,905,failure to pivot,800
+2017,E-Commerce,Beijing,No Funding,905,pivot gone bad,801
+2017,Entertainment,Beijing,Series A,740,failure to pivot,802
+2017,Social Media,Beijing,Angel Round,740,no market need,803
+2017,Transportation,Beijing,Angel Round,827,product mistimed,804
+2017,Entertainment,Beijing,Series A,1009,product mistimed,805
+2017,Game,Beijing,Series A,1101,ran out of cash,806
+2017,Real Estate,Beijing,Angel Round,1101,no business model,807
+2017,Finance,Beijing,Seed Round,521,legal challenges,808
+2017,E-Commerce,Beijing,Series A,1373,poor marketing,809
+2017,E-Commerce,Beijing,No Funding,734,no market need,810
+2017,Tool,Beijing,No Funding,1402,no business model,811
+2017,Local Business,Beijing,No Funding,946,no business model,812
+2017,Social Media,Beijing,No Funding,549,pivot gone bad,813
+2017,Social Media,Beijing,Series A,1128,no market need,814
+2017,Local Business,Beijing,Angel Round,883,burn out,815
+2017,Agriculture,Beijing,Series A,1187,no investor interest,816
+2017,New Industry,Beijing,Series A,1831,no market need,817
+2017,Enterprise Service,Beijing,No Funding,3960,get outcompeted,818
+2017,Education,Beijing,No Funding,1466,get outcompeted,819
+2017,Entertainment,Beijing,Pre-A Round,1101,product mistimed,820
+2017,Finance,Beijing,Series A,1101,supervision,821
+2017,Social Media,Beijing,Angel Round,1461,no business model,822
+2017,Enterprise Service,Beijing,Angel Round,608,founder,823
+2017,Local Business,Beijing,Series A,768,product mistimed,824
+2017,Enterprise Service,Beijing,Angel Round,1100,lose focus,825
+2017,Education,Beijing,Angel Round,3712,ran out of cash,826
+2017,E-Commerce,Beijing,Series A,736,burn out,827
+2017,Transportation,Beijing,Acquired,1491,burn out,828
+2017,Finance,Beijing,Angel Round,740,no market need,829
+2017,Education,Beijing,Series B,4754,pivot gone bad,830
+2017,Travel,Beijing,Angel Round,1101,no market need,831
+2017,Local Business,Beijing,No Funding,1588,no market need,832
+2017,Finance,Beijing,No Funding,250,supervision,833
+2017,Social Media,Beijing,Seed Round,370,no market need,834
+2017,E-Commerce,Beijing,Seed Round,915,no business model,835
+2017,E-Commerce,Beijing,Strategic,641,get outcompeted,836
+2017,Local Business,Beijing,Angel Round,731,burn out,837
+2017,Enterprise Service,Beijing,Angel Round,641,product mistimed,838
+2016,E-Commerce,Beijing,No Funding,2010,no business model,839
+2016,Enterprise Service,Beijing,No Funding,2040,no business model,840
+2016,Entertainment,Beijing,Series A,1979,no business model,841
+2016,Education,Beijing,Acquired,2071,ignore customers,842
+2016,Social Media,Beijing,No Funding,1887,no business model,843
+2016,Game,Beijing,Series B,1857,burn out,844
+2016,E-Commerce,Beijing,Series A,2191,pricing/cost issue,845
+2016,Game,Beijing,No Funding,2191,pivot gone bad,846
+2016,Education,Beijing,Angel Round,1857,no investor interest,847
+2016,Enterprise Service,Beijing,Series A,2010,get outcompeted,848
+2016,Transportation,Beijing,Series A,2010,pricing/cost issue,849
+2016,Social Media,Beijing,No Funding,2132,pivot gone bad,850
+2016,Finance,Beijing,No Funding,2191,supervision,851
+2016,Marketing,Beijing,No Funding,2071,no business model,852
+2016,Tool,Beijing,Angel Round,1857,ran out of cash,853
+2016,E-Commerce,Beijing,Series A,1948,no market need,854
+2016,Entertainment,Beijing,Series A,1857,get outcompeted,855
+2016,E-Commerce,Beijing,Series A,2101,pricing/cost issue,856
+2016,Transportation,Beijing,Series A,1887,get outcompeted,857
+2016,Enterprise Service,Beijing,Angel Round,2010,no market need,858
+2016,Travel,Beijing,Acquired,2101,get outcompeted,859
+2016,Entertainment,Beijing,Angel Round,2071,no market need,860
+2016,Travel,Beijing,Angel Round,2101,pricing/cost issue,861
+2016,E-Commerce,Beijing,Series A,1887,pricing/cost issue,862
+2016,Education,Beijing,Series A,2191,ignore customers,863
+2016,Tool,Beijing,Angel Round,2071,no market need,864
+2016,Tool,Beijing,Angel Round,1918,no investor interest,865
+2016,Local Business,Beijing,Series A,2010,get outcompeted,866
+2016,Entertainment,Beijing,Angel Round,2160,poor marketing,867
+2016,Game,Beijing,Series A,2191,get outcompeted,868
+2016,Tool,Beijing,Angel Round,740,no business model,869
+2016,Transportation,Beijing,Series C,1101,burn out,870
+2016,Social Media,Beijing,Angel Round,1101,no market need,871
+2016,E-Commerce,Beijing,No Funding,2135,no business model,872
+2016,E-Commerce,Beijing,Angel Round,458,no market need,873
+2016,Real Estate,Beijing,Series A,1219,ran out of cash,874
+2016,Tool,Beijing,No Funding,915,no business model,875
+2016,Finance,Beijing,No Funding,860,no market need,876
+2016,Health,Beijing,No Funding,769,no business model,877
+2016,Health,Beijing,No Funding,798,no business model,878
+2016,Entertainment,Beijing,No Funding,1741,no business model,879
+2016,Tool,Beijing,No Funding,794,get outcompeted,880
+2016,Transportation,Beijing,Angel Round,794,failure to pivot,881
+2016,Education,Beijing,Angel Round,1310,no business model,882
+2016,Entertainment,Beijing,No Funding,641,get outcompeted,883
+2016,Sports,Beijing,No Funding,520,no business model,884
+2016,Enterprise Service,Beijing,No Funding,885,failure to pivot,885
+2016,Social Media,Beijing,No Funding,854,product mistimed,886
+2016,Finance,Beijing,No Funding,853,no business model,887
+2016,Finance,Beijing,No Funding,943,supervision,888
+2016,Tool,Beijing,No Funding,884,no market need,889
+2016,Entertainment,Beijing,No Funding,1126,no business model,890
+2016,Game,Beijing,No Funding,3496,no business model,891
+2016,Marketing,Beijing,No Funding,1092,get outcompeted,892
+2016,Education,Beijing,No Funding,1853,product mistimed,893
+2016,Health,Beijing,No Funding,1302,no business model,894
+2016,Tool,Beijing,No Funding,1728,no business model,895
+2016,E-Commerce,Beijing,No Funding,785,no business model,896
+2016,Health,Beijing,No Funding,1301,no business model,897
+2016,Health,Beijing,Angel Round,905,pricing/cost issue,898
+2016,Social Media,Beijing,No Funding,2337,lose focus,899
+2016,Entertainment,Beijing,No Funding,1269,lose focus,900
+2016,Sports,Beijing,No Funding,1941,no business model,901
+2016,Finance,Beijing,No Funding,1088,no business model,902
+2016,Game,Beijing,Acquired,1206,no business model,903
+2016,Local Business,Beijing,Angel Round,780,no market need,904
+2016,Enterprise Service,Beijing,Angel Round,780,no market need,905
+2016,Travel,Beijing,No Funding,658,no business model,906
+2016,Social Media,Beijing,Angel Round,643,no market need,907
+2016,Finance,Beijing,Series A,1130,no business model,908
+2016,Transportation,Beijing,Series B,1831,get outcompeted,909
+2016,E-Commerce,Beijing,Angel Round,947,get outcompeted,910
+2016,Social Media,Beijing,Angel Round,643,no market need,911
+2016,Hardware,Beijing,Series A+,1130,not the right team,912
+2016,Hardware,Beijing,Series A,1100,pricing/cost issue,913
+2016,Hardware,Beijing,Series A,1281,product mistimed,914
+2016,Travel,Beijing,Angel Round,431,no market need,915
+2016,Health,Beijing,Angel Round,1191,no business model,916
+2016,Entertainment,Beijing,Series A,1100,no market need,917
+2016,E-Commerce,Beijing,Series B,1008,burn out,918
+2016,Entertainment,Beijing,Angel Round,339,product mistimed,919
+2016,Education,Beijing,Series A,1100,get outcompeted,920
+2016,Finance,Beijing,Series A,673,supervision,921
+2016,Entertainment,Beijing,Angel Round,1038,lose focus,922
+2016,Social Media,Beijing,Angel Round,673,no market need,923
+2016,Social Media,Beijing,Angel Round,1130,no market need,924
+2016,Local Business,Beijing,Series B,643,no investor interest,925
+2016,Local Business,Beijing,Series A,704,burn out,926
+2016,Finance,Beijing,Angel Round,459,supervision,927
+2016,Social Media,Beijing,Angel Round,671,no business model,928
+2016,Tool,Beijing,Series A,1067,no business model,929
+2016,Entertainment,Beijing,No Funding,1735,no market need,930
+2016,Social Media,Beijing,Series A,1102,legal challenges,931
+2016,Tool,Beijing,Angel Round,1466,no business model,932
+2016,Entertainment,Beijing,Acquired,1466,pivot gone bad,933
+2016,E-Commerce,Beijing,No Funding,517,no market need,934
+2016,Enterprise Service,Beijing,No Funding,1461,pivot gone bad,935
+2016,Entertainment,Beijing,Angel Round,1102,no business model,936
+2016,Entertainment,Beijing,Angel Round,288,get outcompeted,937
+2016,Local Business,Beijing,Angel Round,1101,no market need,938
+2016,E-Commerce,Beijing,Angel Round,1831,no market need,939
+2016,Social Media,Beijing,Angel Round,761,no market need,940
+2015,Enterprise Service,Beijing,Series B,2404,ran out of cash,941
+2015,Real Estate,Beijing,Series A,2312,get outcompeted,942
+2015,E-Commerce,Beijing,No Funding,2039,lose focus,943
+2015,Tool,Beijing,Series C,2039,lose focus,944
+2015,Tool,Beijing,Series C,2039,lose focus,945
+2015,Tool,Beijing,Acquired,2524,pivot gone bad,946
+2015,Local Business,Beijing,Angel Round,1978,poor marketing,947
+2015,Social Media,Beijing,Angel Round,2070,no market need,948
+2015,Game,Beijing,Series A,2131,get outcompeted,949
+2015,Education,Beijing,Series A,1947,pricing/cost issue,950
+2015,Education,Beijing,Series A,1917,lose focus,951
+2015,Health,Beijing,No Funding,1856,no business model,952
+2015,Logistics,Beijing,Series A,2555,product mistimed,953
+2015,E-Commerce,Beijing,Angel Round,2190,no investor interest,954
+2015,Social Media,Beijing,No Funding,2435,no business model,955
+2015,E-Commerce,Beijing,Angel Round,1978,get outcompeted,956
+2015,Social Media,Beijing,Angel Round,1917,no market need,957
+2015,Travel,Beijing,Acquired,1466,get outcompeted,958
+2015,E-Commerce,Beijing,Angel Round,1100,pricing/cost issue,959
+2015,Social Media,Beijing,No Funding,1283,no business model,960
+2015,Tool,Beijing,No Funding,1009,no business model,961
+2015,Social Media,Beijing,No Funding,1375,no business model,962
+2015,Education,Beijing,Angel Round,1066,no market need,963
+2015,Social Media,Beijing,No Funding,852,product mistimed,964
+2015,E-Commerce,Beijing,No Funding,852,no business model,965
+2015,Travel,Beijing,No Funding,1399,no business model,966
+2015,Social Media,Beijing,No Funding,821,no business model,967
+2015,Tool,Beijing,No Funding,2368,no business model,968
+2015,Social Media,Beijing,No Funding,1091,no business model,969
+2015,Local Business,Beijing,No Funding,848,no business model,970
+2015,Game,Beijing,No Funding,695,no business model,971
+2015,Finance,Beijing,No Funding,848,no business model,972
+2015,Finance,Beijing,No Funding,938,no business model,973
+2015,Game,Beijing,No Funding,937,no business model,974
+2015,Enterprise Service,Beijing,No Funding,2217,no business model,975
+2015,E-Commerce,Beijing,No Funding,1364,no business model,976
+2015,Local Business,Beijing,No Funding,2367,no business model,977
+2015,Tool,Beijing,No Funding,1029,no business model,978
+2015,Tool,Beijing,No Funding,1242,product mistimed,979
+2015,Finance,Beijing,Series B,1271,product mistimed,980
+2015,Local Business,Beijing,No Funding,1150,no business model,981
+2015,Education,Beijing,No Funding,755,no business model,982
+2015,E-Commerce,Beijing,No Funding,1211,no business model,983
+2015,Finance,Beijing,No Funding,997,no business model,984
+2015,Enterprise Service,Beijing,No Funding,724,pivot gone bad,985
+2015,Finance,Beijing,No Funding,876,supervision,986
+2015,E-Commerce,Beijing,No Funding,2549,no business model,987
+2015,Social Media,Beijing,No Funding,996,no business model,988
+2015,Finance,Beijing,No Funding,814,no business model,989
+2015,Social Media,Beijing,No Funding,3948,no business model,990
+2015,Health,Beijing,No Funding,814,no business model,991
+2015,E-Commerce,Beijing,No Funding,930,product mistimed,992
+2015,E-Commerce,Beijing,Angel Round,1436,pricing/cost issue,993
+2015,E-Commerce,Beijing,Angel Round,1129,pricing/cost issue,994
+2015,E-Commerce,Beijing,Series A,1188,no market need,995
+2015,Enterprise Service,Beijing,Acquired,1158,pivot gone bad,996
+2015,Local Business,Beijing,Series C,944,no market need,997
+2015,E-Commerce,Beijing,Series A,1100,get outcompeted,998
+2015,Health,Beijing,No Funding,121,no business model,999
+2015,Social Media,Beijing,No Funding,1100,get outcompeted,1000
+2015,E-Commerce,Beijing,Series A,1430,no business model,1001
+2014,Transportation,Beijing,Series B,2496,get outcompeted,1002
+2014,Finance,Beijing,No Funding,2556,pivot gone bad,1003
+2014,Social Media,Beijing,No Funding,2465,pivot gone bad,1004
+2014,Entertainment,Beijing,No Funding,2465,pivot gone bad,1005
+2014,E-Commerce,Beijing,No Funding,1157,lose focus,1006
+2014,Enterprise Service,Beijing,Series A,1156,get outcompeted,1007
+2014,Marketing,Beijing,No Funding,1184,no business model,1008
+2014,Finance,Beijing,No Funding,1395,no business model,1009
+2014,Social Media,Beijing,No Funding,1213,no business model,1010
+2014,Enterprise Service,Beijing,No Funding,1122,no business model,1011
+2014,Travel,Beijing,No Funding,1029,no business model,1012
+2014,Real Estate,Beijing,No Funding,1150,no business model,1013
+2014,Entertainment,Beijing,No Funding,844,no business model,1014
+2014,Tool,Beijing,No Funding,1465,no business model,1015
+2014,Social Media,Beijing,Series A,977,no market need,1016
+2014,Education,Beijing,Series A,1281,no business model,1017
+2014,Game,Beijing,Angel Round,1008,burn out,1018
+2013,E-Commerce,Beijing,Series B,2222,ran out of cash,1019
+2013,Social Media,Beijing,No Funding,2556,no market need,1020
+2013,Enterprise Service,Beijing,Angel Round,2436,failure to pivot,1021
+2013,Enterprise Service,Beijing,No Funding,1127,no business model,1022
+2013,Health,Beijing,No Funding,1061,no business model,1023
+2013,Travel,Beijing,Series A,1244,no market need,1024
+2013,Tool,Beijing,No Funding,1029,no business model,1025
+2013,Game,Beijing,No Funding,1090,no business model,1026
+2013,Enterprise Service,Beijing,No Funding,846,pivot gone bad,1027
+2013,Game,Beijing,No Funding,816,pivot gone bad,1028
+2013,Education,Beijing,No Funding,663,no business model,1029
+2013,Enterprise Service,Beijing,Series A,1434,get outcompeted,1030
+2012,Entertainment,Beijing,Series A,2556,no business model,1031
+2012,Local Business,Beijing,NEEQ,2466,pricing/cost issue,1032
+2012,Game,Beijing,No Funding,2405,no business model,1033
+2012,Entertainment,Beijing,Angel Round,2222,product mistimed,1034
+2012,New Industry,Beijing,Series B,4409,ran out of cash,1035
+2012,Health,Beijing,Series A,977,no market need,1036
+2011,Entertainment,Beijing,Acquired,2312,get outcompeted,1037
+2011,Health,Beijing,Series A,2374,lose focus,1038
+2011,Enterprise Service,Beijing,No Funding,756,no business model,1039
+2011,Real Estate,Beijing,No Funding,1424,get outcompeted,1040
+2010,Entertainment,Beijing,Series B,2251,not the right team,1041
+2010,Entertainment,Beijing,No Funding,1302,no business model,1042
+2019,Transportation,Hunan,No Funding,763,burn out,1043
+2019,E-Commerce,Hunan,Public,1864,lose focus,1044
+2017,Finance,Hunan,No Funding,1705,supervision,1045
+2017,Social Media,Hunan,Angel Round,1735,ran out of cash,1046
+2017,Education,Hunan,No Funding,1582,no business model,1047
+2016,Finance,Hunan,No Funding,1918,pivot gone bad,1048
+2016,Logistics,Hunan,Series A,365,product mistimed,1049
+2015,Game,Hunan,No Funding,1303,pivot gone bad,1050
+2015,Finance,Hunan,No Funding,724,supervision,1051
+2019,Real Estate,Jiangsu,No Funding,1193,ran out of cash,1052
+2019,Social Media,Jiangsu,Angel Round,1431,no market need,1053
+2019,Enterprise Service,Jiangsu,No Funding,1400,get outcompeted,1054
+2019,Entertainment,Jiangsu,No Funding,1369,no business model,1055
+2018,Local Business,Jiangsu,No Funding,1735,get outcompeted,1056
+2018,Transportation,Jiangsu,No Funding,2070,no business model,1057
+2018,Marketing,Jiangsu,Angel Round,1766,no business model,1058
+2018,Enterprise Service,Jiangsu,No Funding,1705,no investor interest,1059
+2018,Hardware,Jiangsu,No Funding,1521,pricing/cost issue,1060
+2018,Sports,Jiangsu,No Funding,1705,pricing/cost issue,1061
+2018,Finance,Jiangsu,No Funding,1582,supervision,1062
+2018,Enterprise Service,Jiangsu,Angel Round,1735,no business model,1063
+2018,E-Commerce,Jiangsu,Series C,3696,team/investors,1064
+2017,Entertainment,Jiangsu,No Funding,1582,no business model,1065
+2017,E-Commerce,Jiangsu,Series A,1491,no market need,1066
+2017,Transportation,Jiangsu,No Funding,2070,pivot gone bad,1067
+2017,Enterprise Service,Jiangsu,No Funding,2131,no business model,1068
+2017,Logistics,Jiangsu,Series B,1978,ran out of cash,1069
+2017,Tool,Jiangsu,No Funding,1194,no business model,1070
+2017,Local Business,Jiangsu,Pre-A Round,676,no business model,1071
+2016,Game,Jiangsu,Angel Round,1979,burn out,1072
+2016,Local Business,Jiangsu,No Funding,2010,no business model,1073
+2016,Entertainment,Jiangsu,No Funding,1105,no business model,1074
+2016,Hardware,Jiangsu,Series A,1122,no business model,1075
+2016,Health,Jiangsu,Angel Round,1030,get outcompeted,1076
+2016,Enterprise Service,Jiangsu,No Funding,1270,poor product,1077
+2016,Transportation,Jiangsu,No Funding,1180,no business model,1078
+2015,Education,Jiangsu,No Funding,941,get outcompeted,1079
+2015,Education,Jiangsu,No Funding,724,product mistimed,1080
+2014,Enterprise Service,Jiangsu,Angel Round,2404,pivot gone bad,1081
+2014,Marketing,Jiangsu,Angel Round,1101,failure to pivot,1082
+2013,Game,Jiangsu,No Funding,2400,poor marketing,1083
+2013,Travel,Jiangsu,Series A,1403,no investor interest,1084
+2011,Enterprise Service,Jiangsu,Strategic,784,no investor interest,1085
+2019,Finance,Sichuan,Series A,1757,ran out of cash,1086
+2019,E-Commerce,Sichuan,Series A+,1612,no market need,1087
+2019,Local Business,Sichuan,No Funding,1369,no market need,1088
+2019,Enterprise Service,Sichuan,Angel Round,1461,no business model,1089
+2019,Enterprise Service,Sichuan,No Funding,1400,no business model,1090
+2019,Game,Sichuan,No Funding,396,ran out of cash,1091
+2018,Finance,Sichuan,Angel Round,1552,supervision,1092
+2018,Enterprise Service,Sichuan,Angel Round,1552,get outcompeted,1093
+2018,Enterprise Service,Sichuan,No Funding,1613,no business model,1094
+2018,Tool,Sichuan,Pre-A Round,1521,no market need,1095
+2018,Tool,Sichuan,No Funding,1644,no business model,1096
+2018,Transportation,Sichuan,Series A,1521,product mistimed,1097
+2018,Finance,Sichuan,Angel Round,1433,no business model,1098
+2018,Game,Sichuan,No Funding,1885,not the right team,1099
+2017,Real Estate,Sichuan,Angel Round,1825,get outcompeted,1100
+2017,Tool,Sichuan,No Funding,1705,no investor interest,1101
+2017,Enterprise Service,Sichuan,No Funding,1582,pivot gone bad,1102
+2017,Finance,Sichuan,Angel Round,1613,supervision,1103
+2017,Enterprise Service,Sichuan,No Funding,1582,no business model,1104
+2017,Transportation,Sichuan,Angel Round,1917,lose focus,1105
+2017,Tool,Sichuan,Angel Round,1917,lose focus,1106
+2017,Tool,Sichuan,No Funding,2070,no investor interest,1107
+2017,Game,Sichuan,No Funding,1674,product mistimed,1108
+2017,Social Media,Sichuan,No Funding,2160,no business model,1109
+2017,Enterprise Service,Sichuan,No Funding,1947,no market need,1110
+2017,Local Business,Sichuan,No Funding,830,no business model,1111
+2017,Enterprise Service,Sichuan,No Funding,543,no business model,1112
+2017,Travel,Sichuan,No Funding,450,no market need,1113
+2017,E-Commerce,Sichuan,No Funding,723,no business model,1114
+2017,Marketing,Sichuan,Angel Round,1411,failure to pivot,1115
+2017,E-Commerce,Sichuan,Angel Round,736,no market need,1116
+2017,Travel,Sichuan,Angel Round,1100,poor marketing,1117
+2016,Social Media,Sichuan,Series A,1918,no market need,1118
+2016,Education,Sichuan,No Funding,1887,get outcompeted,1119
+2016,Social Media,Sichuan,No Funding,1918,no business model,1120
+2016,New Industry,Sichuan,No Funding,1278,no business model,1121
+2016,Game,Sichuan,Angel Round,1888,no business model,1122
+2016,Game,Sichuan,No Funding,1636,no business model,1123
+2016,Travel,Sichuan,Angel Round,1038,get outcompeted,1124
+2015,Finance,Sichuan,Acquired,1917,supervision,1125
+2015,E-Commerce,Sichuan,No Funding,825,no business model,1126
+2015,Social Media,Sichuan,Angel Round,1304,no market need,1127
+2015,Marketing,Sichuan,No Funding,722,no business model,1128
+2014,Game,Sichuan,Series A,2435,ran out of cash,1129
+2014,Social Media,Sichuan,Angel Round,1008,ignore customers,1130
+2019,Finance,Hebei,No Funding,1400,supervision,1131
+2018,Social Media,Hebei,Angel Round,1424,no business model,1132
+2019,Real Estate,Hubei,Angel Round,1612,get outcompeted,1133
+2019,Tool,Hubei,Angel Round,1492,no market need,1134
+2019,E-Commerce,Hubei,No Funding,1278,no business model,1135
+2019,Enterprise Service,Hubei,No Funding,1419,ran out of cash,1136
+2018,Social Media,Hubei,No Funding,1735,no market need,1137
+2018,Enterprise Service,Hubei,No Funding,695,lose focus,1138
+2017,Game,Hubei,No Funding,2009,get outcompeted,1139
+2017,Social Media,Hubei,Series A,2160,no business model,1140
+2017,Local Business,Hubei,Angel Round,1917,no market need,1141
+2017,Transportation,Hubei,Angel Round,705,burn out,1142
+2016,Local Business,Hubei,No Funding,1857,get outcompeted,1143
+2016,Health,Hubei,No Funding,769,no business model,1144
+2015,Enterprise Service,Hubei,Angel Round,1183,no investor interest,1145
+2013,Enterprise Service,Hubei,Angel Round,1495,no market need,1146
+2019,Enterprise Service,Shaanxi,Angel Round,1581,no investor interest,1147
+2019,Education,Shaanxi,No Funding,1581,get outcompeted,1148
+2018,Marketing,Shaanxi,No Funding,1644,no investor interest,1149
+2017,E-Commerce,Shaanxi,Series A,2131,no business model,1150
+2017,Hardware,Shaanxi,Angel Round,785,no business model,1151
+2016,Entertainment,Shaanxi,Angel Round,2010,failure to pivot,1152
+2016,Transportation,Shaanxi,Angel Round,2010,get outcompeted,1153
+2014,Enterprise Service,Shaanxi,No Funding,2221,pivot gone bad,1154
+2019,Enterprise Service,Henan,No Funding,547,pivot gone bad,1155
+2016,Social Media,Henan,No Funding,1887,no business model,1156
+2016,Travel,Henan,No Funding,1615,no business model,1157
+2015,Local Business,Henan,No Funding,724,pivot gone bad,1158
+2019,Enterprise Service,Anhui,No Funding,1522,no investor interest,1159
+2018,Enterprise Service,Anhui,No Funding,1766,no investor interest,1160
+2017,E-Commerce,Anhui,No Funding,2039,not the right team,1161
+2017,Transportation,Anhui,No Funding,1006,pivot gone bad,1162
+2016,Enterprise Service,Anhui,Pre-A Round,704,get outcompeted,1163
+2015,Local Business,Anhui,No Funding,1126,no business model,1164
+2014,E-Commerce,Anhui,Series B,2556,no market need,1165
+2019,Travel,Chongqing,Angel Round,1431,no market need,1166
+2017,Entertainment,Chongqing,Series A,1825,poor marketing,1167
+2017,Health,Chongqing,No Funding,2191,no business model,1168
+2017,E-Commerce,Chongqing,No Funding,616,no business model,1169
+2017,Local Business,Chongqing,Series A,799,no market need,1170
+2017,E-Commerce,Chongqing,Series B,1189,founder,1171
+2017,E-Commerce,Chongqing,Angel Round,1101,no business model,1172
+2019,Local Business,Overseas,Series A,1612,burn out,1173
+2018,Local Business,Overseas,Pre-A Round,1521,no market need,1174
+2018,Entertainment,Overseas,Seed Round,1613,poor product,1175
+2018,Game,Overseas,Series A,1825,not the right team,1176
+2018,Transportation,Overseas,Acquired,1735,lose focus,1177
+2018,Logistics,Overseas,Seed Round,1521,product mistimed,1178
+2018,Tool,Overseas,Angel Round,1735,pivot gone bad,1179
+2017,Logistics,Overseas,Series B,1644,no business model,1180
+2017,Local Business,Overseas,Series B,2131,get outcompeted,1181
+2017,Hardware,Overseas,Series A,1582,product mistimed,1182
+2017,Sports,Overseas,Series A,1886,no business model,1183
+2017,Social Media,Overseas,Series A,1552,poor product,1184
+2017,Hardware,Overseas,Series A,1794,no market need,1185
+2017,Transportation,Overseas,Seed Round,676,no business model,1186
+2017,Hardware,Overseas,Series B,1766,poor product,1187
+2017,Logistics,Overseas,Seed Round,1730,burn out,1188
+2017,Local Business,Overseas,Series B,1519,no business model,1189
+2016,Enterprise Service,Overseas,Acquired,2191,no investor interest,1190
+2016,Sports,Overseas,Series B,2191,lose focus,1191
+2016,Local Business,Overseas,Series A,1918,no market need,1192
+2016,Hardware,Overseas,Series B,2071,burn out,1193
+2015,Social Media,Overseas,Acquired,1886,no market need,1194
+2015,New Industry,Overseas,Acquired,2555,poor product,1195
+2014,Hardware,Overseas,Series E,2556,poor marketing,1196
+2010,Game,Overseas,Strategic,2343,no market need,1197
+2018,Transportation,Shandong,Angel Round,1491,no market need,1198
+2018,Hardware,Shandong,Series A,1490,poor marketing,1199
+2017,Marketing,Shandong,Series C,2191,pivot gone bad,1200
+2017,Tool,Shandong,No Funding,1825,legal challenges,1201
+2017,Social Media,Shandong,Pre-A Round,1552,no market need,1202
+2017,Social Media,Shandong,No Funding,2009,no business model,1203
+2017,Enterprise Service,Shandong,No Funding,1735,no business model,1204
+2017,Transportation,Shandong,No Funding,890,no market need,1205
+2017,Education,Shandong,Angel Round,1061,lose focus,1206
+2016,Game,Shandong,No Funding,1857,get outcompeted,1207
+2016,Finance,Shandong,No Funding,1220,no business model,1208
+2016,Local Business,Shandong,No Funding,974,pivot gone bad,1209
+2015,Game,Shandong,Angel Round,1150,no business model,1210
+2014,Marketing,Shandong,No Funding,1156,pivot gone bad,1211
+2018,Social Media,Liaoning,Angel Round,1521,no business model,1212
+2018,Finance,Liaoning,Series A+,1569,supervision,1213
+2017,Education,Liaoning,No Funding,2131,poor marketing,1214
+2017,Local Business,Liaoning,No Funding,2131,pivot gone bad,1215
+2017,E-Commerce,Liaoning,No Funding,2070,no business model,1216
+2017,Tool,Liaoning,No Funding,1825,lose focus,1217
+2017,Entertainment,Liaoning,No Funding,1825,lose focus,1218
+2017,Marketing,Liaoning,No Funding,1613,lose focus,1219
+2016,E-Commerce,Liaoning,No Funding,1190,get outcompeted,1220
+2016,E-Commerce,Liaoning,No Funding,935,no business model,1221
+2018,Enterprise Service,Tianjin,Angel Round,1521,product mistimed,1222
+2018,Health,Tianjin,Angel Round,1674,no business model,1223
+2018,Transportation,Hong Kong,Series A,555,burn out,1224
+2016,Tool,Hong Kong,Series A,2191,no market need,1225
+2017,Hardware,Taiwan,Angel Round,1674,no market need,1226
+2017,Education,Taiwan,Angel Round,1825,no market need,1227
+2017,Enterprise Service,Taiwan,No Funding,2191,lose focus,1228
+2017,E-Commerce,Taiwan,No Funding,1856,pivot gone bad,1229
+2015,Education,Taiwan,Series A,976,poor marketing,1230
+2017,E-Commerce,Yunnan,No Funding,1613,no investor interest,1231
+2016,E-Commerce,Guangxi,No Funding,943,no market need,1232
+2016,E-Commerce,Guangxi,No Funding,974,no market need,1233
+2015,E-Commerce,Heilongjiang,No Funding,736,no business model,1234

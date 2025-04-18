@@ -1,0 +1,12 @@
+const OperationType = {
+    BEFORE_UPLOAD: 0,
+    GENERATING: 1,
+    GENERATED: 2,
+    GENERATE_FAILED: 3,
+    GENERATING_OUTLINE:4,
+    GENERATED_OUTLINE:5,
+    GENERATED_FAILED_OUTLINE:6,
+    PREVIEW:7
+}
+
+export default OperationType;

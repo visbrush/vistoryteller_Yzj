@@ -1,0 +1,4 @@
+<sportparticipants, has_property, Year>
+<sportparticipants, has_property, Sports>
+<sportparticipants, has_property, male_participants>
+<sportparticipants, has_property, female_participants>

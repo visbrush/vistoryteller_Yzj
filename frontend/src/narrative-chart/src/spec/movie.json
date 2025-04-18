@@ -1,0 +1,128 @@
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/movie.csv",
+        "schema": [
+            {
+                "field": "user_id",
+                "type": "numerical"
+            },
+            {
+                "field": "movie_id",
+                "type": "numerical"
+            },
+            {
+                "field": "title",
+                "type": "categorical"
+            },
+            {
+                "field": "genres",
+                "type": "categorical"
+            },
+            {
+                "field": "tag",
+                "type": "categorical"
+            },
+            {
+                "field": "timestamp_tag",
+                "type": "temporal"
+            },
+            {
+                "field": "rating",
+                "type": "numerical"
+            },
+            {
+                "field": "timestamp_rating",
+                "type": "temporal"
+            },
+            {
+                "field": "timestamp_tag_year",
+                "type": "temporal"
+            },
+            {
+                "field": "timestamp_tag_month",
+                "type": "temporal"
+            },
+            {
+                "field": "timestamp_tag_day",
+                "type": "temporal"
+            },
+            {
+                "field": "timestamp_rating_year",
+                "type": "temporal"
+            },
+            {
+                "field": "timestamp_rating_month",
+                "type": "temporal"
+            },
+            {
+                "field": "timestamp_rating_day",
+                "type": "temporal"
+            },
+            {
+                "field": "dataid",
+                "type": "numerical"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "width": 111,
+            "height": 139
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "point"
+            }
+        },
+        {
+            "select": [
+                {
+                    "field": "user_id",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "movie_id",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "title"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "title"
+                }
+            ],
+            "filter": [
+                {
+                    "field": "timestamp_rating",
+                    "value": "2018-05-28 14:35:45",
+                    "op": "less"
+                }
+            ]
+        },
+        {
+            "add": "group",
+            "actions": [
+                {
+                    "add": "encoding",
+                    "channel": "x",
+                    "field": "user_id"
+                },
+                {
+                    "add": "encoding",
+                    "channel": "y",
+                    "field": "movie_id"
+                }
+            ]
+        },
+        {
+            "add": "annotation",
+            "method": "regression",
+            "target": []
+        }
+    ]
+}

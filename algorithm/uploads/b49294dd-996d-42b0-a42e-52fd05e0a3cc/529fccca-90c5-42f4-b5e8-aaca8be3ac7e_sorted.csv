@@ -1,0 +1,11 @@
+industry,broken_year,location,funded_status,survival_time,cause_of_failure,dataid
+New Industry,2012,Beijing,Series B,4409,ran out of cash,1234
+New Industry,2012,Shanghai,Series C,2556,pivot gone bad,1233
+New Industry,2015,Shanghai,No Funding,1301,no business model,1232
+New Industry,2015,Shanghai,No Funding,815,no business model,1231
+New Industry,2015,Overseas,Acquired,2555,poor product,1230
+New Industry,2016,Guangdong,No Funding,1191,ran out of cash,1229
+New Industry,2016,Sichuan,No Funding,1278,no business model,1228
+New Industry,2017,Beijing,Series A,1831,no market need,1227
+New Industry,2017,Beijing,Series A,2039,product mistimed,1226
+New Industry,2017,Guangdong,Series A,1552,pivot gone bad,1225

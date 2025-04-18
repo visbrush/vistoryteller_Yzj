@@ -1,0 +1,11 @@
+location,broken_year,industry,funded_status,survival_time,cause_of_failure,dataid
+Heilongjiang,2015,E-Commerce,No Funding,736,no business model,1234
+Guangxi,2016,E-Commerce,No Funding,974,no market need,1233
+Guangxi,2016,E-Commerce,No Funding,943,no market need,1232
+Yunnan,2017,E-Commerce,No Funding,1613,no investor interest,1231
+Taiwan,2015,Education,Series A,976,poor marketing,1230
+Taiwan,2017,E-Commerce,No Funding,1856,pivot gone bad,1229
+Taiwan,2017,Enterprise Service,No Funding,2191,lose focus,1228
+Taiwan,2017,Education,Angel Round,1825,no market need,1227
+Taiwan,2017,Hardware,Angel Round,1674,no market need,1226
+Hong Kong,2016,Tool,Series A,2191,no market need,1225

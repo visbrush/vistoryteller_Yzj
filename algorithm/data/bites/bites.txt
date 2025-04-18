@@ -1,0 +1,16 @@
+<bites, has_property, Id>
+<bites, has_property, bite_date>
+<bites, has_property, vaccination_yrs>
+<bites, has_property, vaccination_date>
+<bites, has_property, victim_zip>
+<bites, has_property, AdvIssuedYNDesc>
+<bites, has_property, WhereBittenIDDesc>
+<bites, has_property, quarantine_date>
+<bites, has_property, DispositionIDDesc>
+<bites, has_property, ResultsIDDesc>
+<bites, happen on, patient>
+<patient, has_property, Id>
+<patient, has_property, GenderIDDesc>
+<patient, has_property, color>
+<bites, belong to, species>
+<species, has_property, SpeciesIDDesc>

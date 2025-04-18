@@ -1,0 +1,11 @@
+<emissions, has_property, Make>
+<emissions, has_property, Model>
+<emissions, has_property, Vehicle_Class>
+<emissions, has_property, Engine_Size>
+<emissions, has_property, Cylinders>
+<emissions, has_property, Transmission>
+<emissions, has_property, Fuel_Type>
+<emissions, has_property, Fuel_Consumption_City>
+<emissions, has_property, Fuel_Consumption_Hwy>
+<emissions, has_property, Fuel_Consumption_Comb>
+<emissions, has_property, CO2_Emissions>

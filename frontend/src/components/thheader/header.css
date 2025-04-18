@@ -1,0 +1,73 @@
+.thheader {
+    width: 1000px;
+    height: 124px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+
+    .thheaderimgbox {
+        width: 100%;
+        height: 0px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+
+        .thheaderimg {
+            width: 668px;
+            height: 179px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: -48px;
+        }
+    }
+
+    .thheadertitle {
+        width: 550px;
+        height: 111px;
+        border: 2px solid rgb(0, 0, 0);
+        background: rgb(255, 255, 255);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5px;
+
+        .thheadertitlebox {
+            width: auto;
+            height: 44px;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            flex-direction: row;
+            margin-left: auto;
+            margin-right: auto;
+
+            .thheaderdecor {
+                width: 51px;
+                height: 37px;
+            }
+
+            >span {
+                font-weight: 700;
+                color: rgb(0, 0, 0);
+                font-size: 32px;
+                line-height: normal;
+            }
+        }
+    }
+
+    .thheaderintro {
+        width: 500px;
+        height: 59px;
+        flex-shrink: 0;
+        color: #000;
+        text-align: center;
+        font-family: AlibabaPuHuiTi;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+}

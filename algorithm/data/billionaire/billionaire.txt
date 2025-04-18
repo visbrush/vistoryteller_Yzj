@@ -1,0 +1,9 @@
+<billionaire, has_property, Name>
+<billionaire, has_property, Net Worth ($M)>
+<billionaire, has_property, Rank>
+<billionaire, has_property, Age>
+<billionaire, has_property, Region of Citizenship>
+<billionaire, belong to, industry>
+<industry, has_property, Primary Industry>
+<billionaire, live at, region>
+<region, has_property, Region of Citizenship>

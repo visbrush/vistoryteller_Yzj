@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+    nginx:
+        build: ./nginx
+        container_name: visbrush-nginx
+        ports:
+            - 6037:80
+            - 6039:443
+        volumes:
+            - "./nginx/certs:/etc/nginx/certs"
+        depends_on:
+            - visbrush
+        networks:
+            - visbrush-network
+    visbrush:
+        build: ./algorithm
+        container_name: visbrush
+        command: gunicorn -c gunicorn.py run:app
+        ports:
+            - 6041:6041
+        networks:
+            - visbrush-network
+    # videoserver:
+    #     build: ./videoserver
+    #     container_name: videoserver
+    #     command: gunicorn -c gunicorn.py run:app
+    #     ports:
+    #         - 8000:8000
+    #     networks:
+    #         - visbrush-network
+
+networks:
+    visbrush-network:
+        driver: bridge

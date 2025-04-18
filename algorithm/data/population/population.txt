@@ -1,0 +1,6 @@
+<population, has_property, rank>
+<population, has_property, region>
+<population, has_property, density>
+<population, has_property, densityMi>
+<population, has_property, pop2021>
+<population, has_property, area>

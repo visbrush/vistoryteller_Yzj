@@ -1,0 +1,15 @@
+<movie, has_property, movieId>
+<movie, has_property, title>
+<rating, has_property, userId>
+<rating, has_property, movieId>
+<rating, has_property, score>
+<rating, has_property, timestampRating>
+<tag, has_property, userId>
+<tag, has_property, movieId>
+<tag, has_property, tagName>
+<tag, has_property, timestampTag>
+<genre, has_property, movieId>
+<genre, has_property, genreName>
+<movie, belong to, genre>
+<movie, is rated, rating>
+<movie, is tagged, tag>

@@ -1,0 +1,18 @@
+<pizza, has_property, pizza_id>
+<pizza, has_property, pizza_type_id>
+<pizza, has_property, size>
+<pizza, has_property, price>
+<order, has_property, order_id>
+<order, has_property, date>
+<order, has_property, time>
+<order_details, has_property, order_details_id>
+<order_details, has_property, order_id>
+<order_details, has_property, pizza_id>
+<order_details, has_property, quantity>
+<pizza_types, has_property, pizza_type_id>
+<pizza_types, has_property, name>
+<pizza_types, has_property, category>
+<pizza_types, has_property, ingredients>
+<pizza, belong to, pizza_types>
+<order, contain, order_details>
+<order_details, order, pizza>

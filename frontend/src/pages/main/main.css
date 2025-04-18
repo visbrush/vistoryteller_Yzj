@@ -1,0 +1,25 @@
+.show{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.headerStyle {
+    text-align: 'center';
+    color: '#fff';
+    height: 64;
+    padding-inline: 50;
+    list-style: '64px';
+    background-color: 'blue';
+}
+.contentStyle {
+    text-align: 'center';
+    min-height: 120;
+    line-height: '120px';
+    color: '#fff';
+    background-color: '#108ee9';
+};
+.language-switch-icon{
+    color: black;
+    transform: 'rotate(90deg)';
+}

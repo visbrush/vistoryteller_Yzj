@@ -1,0 +1,180 @@
+.sequence-card {
+    border-radius: 4px;
+    background: var(--text-icon-text-icon-5, #FFF);
+    border: 1px solid var(--text-text-icon-03, #DCDEE1);
+    box-shadow: 0px 6px 16px 0px rgba(219, 219, 219, 0.25);
+}
+
+.sequence-title {
+    display: inline-flex;
+    padding: 2px 8px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    color: var(--ux-primary, #4680FF);
+    text-align: center;
+    border-radius: 4px;
+    background: rgba(33, 73, 255, 0.08);
+    font-family: AlibabaPuHuiTiMedium;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.sequence-title-notedit {
+    display: inline-flex;
+    padding: 2px 8px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 4px;
+    background: var(--UX-bg_module, #F8F9FA);
+}
+
+.sequence-title-preview {
+    width: 100%;
+    height: 40px;
+    display: inline-flex;
+    padding: 10px 10px;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+
+    width: 100%;
+    height: fit-content;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    line-height: 18px;
+    font-size: 14px;
+}
+
+.sequence-caption {
+    width: 100%;
+    height: 52px;
+    max-height: 76px;
+    flex-shrink: 0;
+    overflow: hidden;
+    color: #7E7E7E;
+    text-align: center;
+    text-overflow: ellipsis;
+    /* white-space: nowrap; */
+    font-family: AlibabaPuHuiTi;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.sequence-caption-preview {
+    font-size: 10px;
+    white-space: normal;
+    color: #000;
+    width: 100%;
+    height: auto;
+    max-height: 82px;
+    overflow: hidden;
+}
+
+.sequence-calliope {
+    margin-right: 10px;
+    padding-top: 10px;
+    justify-content: space-between;
+    box-shadow: 2px 2px rgba(0, 0, 0, .2);
+}
+
+.sequence-chart {
+    display: flex;
+    justify-content: center;
+}
+
+.editing-outlining {
+    border-left: 2px solid var(--text-text-icon-0, #252931);
+    border-bottom: 2px solid var(--ux-primary, #4680FF);
+    border-top: 2px solid var(--ux-primary, #4680FF);
+    border-right: 2px solid var(--ux-primary, #4680FF);
+}
+
+.editing-notoutline {
+    border: 2px solid var(--ux-primary, #4680FF);
+
+}
+
+.notedit-outlining {
+    border-left: 2px solid var(--text-text-icon-0, #252931);
+}
+
+.notedit-notoutline {
+    border: 1px solid var(--ux-secondary-01, #C6DDFF);
+}
+
+
+.trend:before {
+    background-image: linear-gradient(135deg, #5f9c92, #b4f0e6);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.distribution:before {
+    background-image: linear-gradient(135deg, #8db14f, #d2fa8d);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.extreme:before {
+    background-image: linear-gradient(135deg, #d1c877, #f8f8af);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.outlier:before {
+    background-image: linear-gradient(135deg, #916092, #ba88bb);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.diffrence:before {
+    background-image: linear-gradient(135deg, #628faf, #8bb6d4);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.value:before {
+    background-image: linear-gradient(135deg, #8983ad, #dbd8f1);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.rank:before {
+    background-image: linear-gradient(135deg, #d3a8be, #fadcec);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.categorization:before {
+    background-image: linear-gradient(135deg, #da6255, #fa9b90);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.proportion:before {
+    background-image: linear-gradient(135deg, #d3954f, #fcc07c);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+.association:before {
+    background-image: linear-gradient(135deg, #b6b4b4, #f0eeee);
+    clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    src: url('../../../assets/font/alibabaPuhui/AlibabaPuHuiTi-3-45-Light.woff') format('woff');
+    /* Add additional formats if needed */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTiMedium';
+    src: url('../../../assets/font/alibabaPuhui/AlibabaPuHuiTi-3-65-Medium.woff') format('woff');
+    /* Add additional formats if needed */
+    font-weight: normal;
+    font-style: normal;
+}

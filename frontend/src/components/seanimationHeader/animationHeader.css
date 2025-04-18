@@ -1,0 +1,13 @@
+.seheader{
+    width:1920px;
+    height:440px;
+    background-color: rgb(255, 255, 255);
+    .seheaderbackground{
+
+    }
+    .blackbar{
+        width: 344px;
+        height: 23px;
+        background: #1F1F1F;
+    }
+}

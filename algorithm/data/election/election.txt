@@ -1,0 +1,4 @@
+<election, has_property, state>
+<election, has_property, candidate>
+<election, has_property, party>
+<election, has_property, votes>

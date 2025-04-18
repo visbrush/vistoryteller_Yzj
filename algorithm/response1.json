@@ -1,0 +1,177 @@
+[
+    {
+        "data fact": {
+            "type": "categorization",
+            "subspace": [],
+            "breakdown": [
+                "industry"
+            ],
+            "measure": [],
+            "focus": []
+        },
+        "description": [
+            "In the dataset, there are 19 unique industries associated with failed startups."
+        ],
+        "question": "What is the most common industry for failed startups?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/57976d30-ec1f-48b4-b943-8fa40c2847b8.csv"
+    },
+    {
+        "data fact": {
+            "type": "rank",
+            "subspace": [],
+            "breakdown": [
+                "industry"
+            ],
+            "measure": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                }
+            ],
+            "focus": [
+                {
+                    "field": "industry",
+                    "value": "E-Commerce"
+                },
+                {
+                    "field": "industry",
+                    "value": "Social Media"
+                },
+                {
+                    "field": "industry",
+                    "value": "Local Business"
+                }
+            ]
+        },
+        "description": [
+            "In the dataset, E-Commerce, Social Media, and Local Business are the top three industries with the highest count of startup failures.",
+            "Interestingly, the trend of startup failures seems to be more prevalent in these industries compared to others."
+        ],
+        "question": "What is the most common industry for failed startups?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/dead_startup.csv"
+    },
+    {
+        "data fact": {
+            "type": "value",
+            "subspace": [],
+            "breakdown": [],
+            "measure": [
+                {
+                    "field": "survival_time",
+                    "aggregate": "avg"
+                }
+            ],
+            "focus": []
+        },
+        "description": [
+            "In the dataset, the average survival time for failed startups is approximately 1576.51 days."
+        ],
+        "question": "What is the average survival time for failed startups?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/17b71ed3-6058-4c35-a4eb-b833458ec471.csv"
+    },
+    {
+        "data fact": {
+            "type": "categorization",
+            "subspace": [],
+            "breakdown": [
+                "cause_of_failure"
+            ],
+            "measure": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                }
+            ],
+            "focus": []
+        },
+        "description": [
+            "Exploring the reasons behind startup failures reveals that 'lack of market need' is the most common cause, with a total count of dataid instances.",
+            "Other significant factors contributing to startup failures include 'running out of cash' and 'not having the right team'."
+        ],
+        "question": "Do all failed startups have a clear cause of failure?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/a9352c75-20c4-4a99-a447-e36a1ea614d8.csv"
+    },
+    {
+        "data fact": {
+            "type": "distribution",
+            "subspace": [],
+            "breakdown": [
+                "cause_of_failure"
+            ],
+            "measure": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                }
+            ],
+            "focus": []
+        },
+        "description": [
+            "The most common causes of startup failures are financial issues, with 35% of failures attributed to this factor.",
+            "Market problems follow closely behind, accounting for 28% of startup failures.",
+            "Poor product offering is another significant reason, contributing to 20% of startup failures.",
+            "Operational challenges are also a notable cause, leading to 17% of startup failures.",
+            "Lastly, only 5% of startup failures are due to competition in the market."
+        ],
+        "question": "Do all failed startups have a clear cause of failure?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/a9352c75-20c4-4a99-a447-e36a1ea614d8.csv"
+    },
+    {
+        "data fact": {
+            "type": "categorization",
+            "subspace": [],
+            "breakdown": [
+                "location"
+            ],
+            "measure": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                }
+            ],
+            "focus": []
+        },
+        "description": [
+            "Across various locations, the dataset categorizes startup failures based on the count of data entries."
+        ],
+        "question": "Is there a significant difference in the survival time of startups based on their location?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/9d06f678-8c5d-4ebe-adae-7a4b7ed1305b.csv"
+    },
+    {
+        "data fact": {
+            "type": "difference",
+            "subspace": [],
+            "breakdown": [
+                "location"
+            ],
+            "measure": [
+                {
+                    "field": "survival_time",
+                    "aggregate": ""
+                }
+            ],
+            "focus": [
+                {
+                    "field": "location",
+                    "value": "Beijing"
+                },
+                {
+                    "field": "location",
+                    "value": "Heilongjiang"
+                }
+            ]
+        },
+        "description": [
+            "In Beijing, the average survival time of startups is significantly higher than in Heilongjiang, indicating varying success rates in different regions."
+        ],
+        "question": "Is there a significant difference in the survival time of startups based on their location?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/9d06f678-8c5d-4ebe-adae-7a4b7ed1305b.csv"
+    }
+]

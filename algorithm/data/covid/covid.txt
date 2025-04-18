@@ -1,0 +1,5 @@
+<covid, has_property, Date>
+<covid, has_property, Country>
+<covid, has_property, Confirmed>
+<covid, has_property, Recovered>
+<covid, has_property, Deaths>

@@ -1,0 +1,4 @@
+<weekendplan, has_property, Year>
+<weekendplan, has_property, weekend activity>
+<weekendplan, has_property, population>
+<weekendplan, has_property, percentage>

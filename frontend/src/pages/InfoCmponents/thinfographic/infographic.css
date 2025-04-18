@@ -1,0 +1,48 @@
+.thinfographic{
+    width: 1000px;
+    height:1246px;
+    display:flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    position:relative;
+    .thfirst{
+        width: 100%;
+        height: 318px;
+        display: flex;
+        gap:10px;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .thsecond{
+        width: 100%;
+        height: 318px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .ththird{
+        width: 100%;
+        height: 318px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .thforth{
+        width: 100%;
+        height: 318px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+.arrowbox{
+    position: absolute;
+    background:url("../../../pics/Arrow.svg"); width:92px;height:738px;
+    top: 20%;
+    left: 45%;
+}

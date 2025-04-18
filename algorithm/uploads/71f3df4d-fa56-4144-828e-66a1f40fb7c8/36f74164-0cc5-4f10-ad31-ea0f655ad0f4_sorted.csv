@@ -1,0 +1,11 @@
+location,broken_year,industry,funded_status,survival_time,cause_of_failure,dataid
+Shanghai,2019,Education,No Funding,8622,ran out of cash,2
+Zhejiang,2015,Tool,No Funding,6204,no business model,343
+Shanghai,2015,Tool,No Funding,5687,no business model,219
+Shanghai,2018,Social Media,No Funding,5362,lose focus,75
+Shanghai,2013,Tool,Public,4954,no business model,251
+Beijing,2017,Marketing,No Funding,4931,no business model,732
+Beijing,2017,Entertainment,No Funding,4931,no business model,730
+Shanghai,2017,Travel,Acquired,4755,no investor interest,150
+Beijing,2017,Education,Series B,4754,pivot gone bad,830
+Beijing,2018,Finance,No Funding,4567,supervision,669

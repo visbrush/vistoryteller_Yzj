@@ -1,0 +1,11 @@
+<participant, has_property, Gender>
+<participant, has_property, Age>
+<participant, has_property, Age_amount>
+<participant, has_property, number>
+<participant, has_property, together>
+<participant, has_property, departure_province>
+<participant, has_property, destination_province>
+<departure, has_property, departure_province>
+<destination, has_property, destination_province>
+<participant, is_from, departure>
+<participant, goto, destination>

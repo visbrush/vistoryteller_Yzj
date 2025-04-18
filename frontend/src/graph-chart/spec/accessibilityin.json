@@ -1,0 +1,16 @@
+{
+    "chart": {
+        "type": "accessibilityout",
+        "width":100,
+        "height":100
+    },
+    "fact": {
+    "subspace": [],
+    "breakdown": [{}],
+    "measure": [{"field":"Napoleon","aggregate":"out"}],
+    "focus": []
+    },
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/graph.json"
+    }
+}

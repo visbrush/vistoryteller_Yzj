@@ -1,0 +1,103 @@
+.genre-btn-group-div {
+    margin-top: 10px;
+
+}
+
+.template-div {
+    margin-top: 20px;
+    /* margin-left: 10px; */
+    margin-bottom: 10px;
+    font-size: 15px;
+
+}
+
+.divide-line-div {
+    margin-top: 5px;
+    width: 91%;
+}
+
+.divide-line-div hr {
+    border: 1px solid #D4D4D4;
+}
+
+.custom-div {
+    height: 30%;
+    font-size: 15px;
+    width: 100%;
+}
+
+.upload-div {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.upload-bg-btn {
+    width: 300px !important;
+    height: 80px;
+}
+
+.uploaded-thumbnail {
+    width: 300px !important;
+    height: 150px !important;
+    border: 1.8px solid #D4D4D4;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #F1F1F1;
+    padding: 7px;
+    display: 'flex';
+    justify-content: 'space-between';
+    align-items: 'center',
+}
+
+.uploaded-thumbnail:hover {
+    background-color: #DCDEE1;
+    /* 鼠标悬浮时的背景色，可以根据需要调整颜色 */
+    border: 1.8px solid #D4D4D4;
+
+}
+
+.uploaded-thumbnail:hover button {
+    opacity: 1;
+    /* 鼠标悬浮时显示按钮 */
+}
+
+.replace-btn {
+    position: absolute;
+    top: 640px;
+    left: 150px;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    color: #4680FF;
+    border: 1.5px solid #4680FF;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    font-family: 'Montserrat';
+}
+
+.replace-btn-g3 {
+    position: absolute;
+    top: 525px;
+    left: 150px;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    color: #4680FF;
+    border: 1.5px solid #4680FF;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    font-family: 'Montserrat';
+}
+
+.uploaded-thumbnail:hover .replace-btn {
+    opacity: 1;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    /* 字体名称，可以自定义 */
+    src: url('../../../../assets/font/alibabaPuhui/Alibaba-PuHuiTi-Light.ttf') format('truetype');
+    /* 字体文件的路径 */
+    font-weight: normal;
+    font-style: normal;
+}

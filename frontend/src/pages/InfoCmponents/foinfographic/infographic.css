@@ -1,0 +1,7 @@
+.foinfographic {
+    width: 1000px;
+    height: 1400px;
+    display: flex;
+    flex-direction: column;
+    font-family: "AlibabaPuHuiTi";
+}

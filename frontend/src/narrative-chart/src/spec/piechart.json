@@ -1,0 +1,119 @@
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/sales.csv",
+        "schema": [
+        {
+            "field": "Year",
+            "type": "temporal"
+        },
+        {
+            "field": "Brand",
+            "type": "categorical"
+        },
+        {
+            "field": "Category",
+            "type": "categorical"
+        },
+        {
+            "field": "Sales",
+            "type": "numerical"
+        }
+        ]
+    },
+   
+    "actions": [
+        {
+            "add": "config",
+            "mode": "light",
+            "emotion": "calm"
+          },
+        {
+            "select": [
+                {
+                    "field": "Sales",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "Brand"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": "Brand"
+                }
+            ],
+            "filter": []
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "arc",
+                "style": {
+                    "inner-radius": 100, 
+                    "outer-radius": 200,
+                    "text-radius":210,
+                    "corner-radius":5,
+                    "stroke": "blue",
+                    "stroke-width":2,
+                    "stroke-opacity":0,
+                    "fill-opacity":1,
+                    "background-image": "http://localhost:3000/texture/egg.png"
+                }
+            },
+            "style": {
+                "mask-image": "http://localhost:3000/texture/car-hire-hero-uk.png"
+            }
+        },
+        {
+            "add": "encoding",
+            "channel": "theta",
+            "field":"Sales"
+        },
+
+      
+        {
+            "add": "annotation",
+            "method": "label",
+            "target": [
+               
+            ],
+            "style": {
+                "font-size": 14,
+                "color": "black"
+            },
+            "animation": { "duration": 1000}
+        },
+        {
+            "add": "annotation",
+            "method": "symbol",
+            "target": [{
+                "field": "Brand",
+                "value": "Ford"
+            }
+            ],
+            "style": {
+              "icon-url": "http://localhost:3000/icon/rank-1.png",
+              "size":"(20,20)"
+            },
+            "animation": {
+                "type": "fly",
+                "duration": 2000
+              }
+        },
+        {
+            "add": "annotation",
+            "method": "texture",
+            "target": [
+              {
+                "field": "Brand",
+                "value": "Ford"
+              }
+      
+            ],
+            "style": {
+              "background-image": "http://localhost:3000/texture/stripe.png"
+            }
+          }
+        
+    ]
+}

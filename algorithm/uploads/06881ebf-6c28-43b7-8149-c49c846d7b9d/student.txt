@@ -1,0 +1,8 @@
+<students_performance, has_property, gender>
+<students_performance, has_property, test_preparation_course>
+<students_performance, has_property, math_score>
+<students_performance, has_property, reading_score>
+<students_performance, has_property, writing_score>
+<students_performance, has_property, rest>
+<students_performance, has_property, degree>
+<students_performance, has_property, race_or_ethnicity>

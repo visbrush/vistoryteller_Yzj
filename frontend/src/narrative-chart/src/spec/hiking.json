@@ -1,0 +1,114 @@
+{
+    "data": {
+        "url": "http://localhost:3000/spreadsheets/hiking2.csv",
+        "schema": [
+            {
+                "field": "Gender",
+                "type": "categorical"
+            },
+            {
+                "field": "Age",
+                "type": "numerical"
+            },
+            {
+                "field": "Age_amount",
+                "type": "categorical"
+            },
+            {
+                "field": "Province",
+                "type": "categorical"
+            },
+            {
+                "field": "Goto",
+                "type": "categorical"
+            },
+            {
+                "field": "number",
+                "type": "numerical"
+            },
+            {
+                "field": "together",
+                "type": "categorical"
+            },
+            {
+                "field": "timestamp_people",
+                "type": "temporal"
+            },
+            {
+                "field": "timestamp_hiking",
+                "type": "temporal"
+            }
+        ]
+    },
+    "actions": [
+        {
+            "select": [
+                {
+                    "field": "Goto",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "Gender",
+                    "aggregate": "count"
+                },
+                {
+                    "field": "timestamp_people"
+                }
+            ],
+            "groupby": [
+                {
+                    "field": [
+                        "timestamp_people"
+                    ]
+                }
+            ],
+            "filter": [
+                {
+                    "field": "timestamp_people",
+                    "value": "2006-04-18 18:29:35",
+                    "op": "greater"
+                }
+            ]
+        },
+        {
+            "add": "config",
+            "mode": "light"
+        },
+        {
+            "add": "chart",
+            "mark": {
+                "type": "bar"
+            }
+        },
+        {
+            "add": "group",
+            "actions": [
+                {
+                    "add": "encoding",
+                    "channel": "x",
+                    "field": "timestamp_people"
+                },
+                {
+                    "add": "encoding",
+                    "channel": "y",
+                    "field": "Goto"
+                }
+            ]
+        },
+        {
+            "add": "annotation",
+            "method": "partialrect",
+            "target": [
+                {
+                    "field": "timestamp_people",
+                    "value": "2018-05-28 14:35:45"
+                },
+                {
+                    "field": "timestamp_people",
+                    "value": "2019-07-05 20:05:35"
+                }
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,107 @@
+[
+    {
+        "data fact": {
+            "type": "proportion",
+            "subspace": [],
+            "breakdown": [
+                "industry"
+            ],
+            "measure": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                }
+            ],
+            "focus": []
+        },
+        "description": [
+            "In the realm of failed startups, the E-Commerce industry stands out as the most common, capturing a significant proportion of the unsuccessful ventures."
+        ],
+        "question": "What are the most common industries for failed startups?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/cf672bd6-3c9d-466d-b0e6-85dc17b14b48.csv"
+    },
+    {
+        "data fact": {
+            "type": "distribution",
+            "subspace": [],
+            "breakdown": [
+                "industry"
+            ],
+            "measure": [
+                {
+                    "field": "survival_time",
+                    "aggregate": "avg"
+                }
+            ],
+            "focus": []
+        },
+        "description": [
+            "In the realm of startup failures, the average survival time varies across different industries."
+        ],
+        "question": "What is the average survival time for failed startups in different industries?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/cf672bd6-3c9d-466d-b0e6-85dc17b14b48_sorted.csv"
+    },
+    {
+        "data fact": {
+            "type": "categorization",
+            "subspace": [],
+            "breakdown": [
+                "location"
+            ],
+            "measure": [],
+            "focus": []
+        },
+        "description": [
+            "Exploring the distribution of failed startups across different locations, it is revealed that there are 23 locations with varying numbers of failed startups."
+        ],
+        "question": "What is the distribution of failed startups in different locations?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/904c8d00-7f1d-4c2a-8f96-950ed5396762.csv"
+    },
+    {
+        "data fact": {
+            "type": "distribution",
+            "subspace": [],
+            "breakdown": [
+                "location"
+            ],
+            "measure": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                }
+            ],
+            "focus": []
+        },
+        "description": [
+            "Across various locations, the distribution of failed startups varies significantly, with some areas experiencing a higher concentration of closures than others."
+        ],
+        "question": "What is the distribution of failed startups in different locations?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/904c8d00-7f1d-4c2a-8f96-950ed5396762_sorted.csv"
+    },
+    {
+        "data fact": {
+            "type": "trend",
+            "subspace": [],
+            "breakdown": [
+                "broken_year"
+            ],
+            "measure": [
+                {
+                    "field": "dataid",
+                    "aggregate": "count"
+                }
+            ],
+            "focus": []
+        },
+        "description": [
+            "Over the years, the data shows a fluctuating trend in startup failures based on the count of failed startups per year."
+        ],
+        "question": "What is the average survival time for failed startups?",
+        "stage": "",
+        "csv": "uploads/8bf5baa9-4760-412b-9523-98726475d900/5b9b2b00-30f1-44f7-bf0f-c7b8ed0bd2a8.csv"
+    }
+]
